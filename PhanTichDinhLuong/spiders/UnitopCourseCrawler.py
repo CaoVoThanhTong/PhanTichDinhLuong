@@ -1,5 +1,5 @@
 import scrapy
-from unitop.items import UnitopItem
+from PhanTichDinhLuong.items import UnitopItem
 
 class UnitopCourseSpider(scrapy.Spider):
     name = "UnitopAppCrawler"
