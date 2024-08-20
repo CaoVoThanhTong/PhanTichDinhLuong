@@ -7,7 +7,7 @@ class PhongTro123Spider(scrapy.Spider):
     #start_urls = ['https://phongtro123.com/']
     
     def start_requests(self):
-        for i in range(1, 2):
+        for i in range(1, 55):
             yield scrapy.Request(url=f'https://phongtro123.com/?page={i}', callback=self.parse)
 
     def parse(self, response):
