@@ -4,11 +4,14 @@ from PhanTichDinhLuong.items import PhongTroItem
 class PhongTro123Spider(scrapy.Spider):
     name = "PhongTro123Crawler"
     allowed_domains = ["phongtro123.com"]
-    start_urls = ['https://phongtro123.com/']
+    #start_urls = ['https://phongtro123.com/']
     
+    def start_requests(self):
+        for i in range(1, 55):
+            yield scrapy.Request(url=f'https://phongtro123.com/?page={i}', callback=self.parse)
 
     def parse(self, response):
-        room_links = response.xpath('//ul[@class="post-listing aside clearfix"]/li/a/@href').getall()
+        room_links = response.xpath('//ul[@class="post-listing clearfix"]/li/figure/a/@href').getall()
         for link in room_links:
             item = PhongTroItem()
             item['link'] = response.urljoin(link)
