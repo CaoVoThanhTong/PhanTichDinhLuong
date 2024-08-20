@@ -9,3 +9,7 @@ class PhongTroItem(scrapy.Item):
     published = scrapy.Field()
     hashtag = scrapy.Field()
     description = scrapy.Field()
+    package = scrapy.Field()
+    category = scrapy.Field()
+    public_date = scrapy.Field()
+    expired_date = scrapy.Field()

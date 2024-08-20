@@ -7,7 +7,7 @@ class PhongTro123Spider(scrapy.Spider):
     #start_urls = ['https://phongtro123.com/']
     
     def start_requests(self):
-        for i in range(1, 55):
+        for i in range(1, 2):
             yield scrapy.Request(url=f'https://phongtro123.com/?page={i}', callback=self.parse)
 
     def parse(self, response):
@@ -30,5 +30,11 @@ class PhongTro123Spider(scrapy.Spider):
         item['hashtag'] = response.xpath('//div[@class="item hashtag"]/span/text()').get()
 
         item['description'] = response.xpath('//section[@class="section post-main-content"]/div/p/text()').getall()
+
+        item['package'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Gói tin:")]]/td/span/text()').get()
+        item['category'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Chuyên mục:")]]/td/a/@title').get()
+        item['public_date'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Ngày đăng:")]]/td/time/@title').get()
+        item['expired_date'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Ngày hết hạn:")]]/td/time/@title').get()
+
         
         yield item
