@@ -1,4 +1,22 @@
 import json
+import pymongo
+
+class MongoDBPhanTichDinhLuongPipeline:
+    def __init__(self):
+        
+        self.client = pymongo.MongoClient('mongodb://localhost:27017')
+        self.db = self.client['dbmycrawler'] #Database      
+        pass
+    
+    def process_item(self, item, spider):
+        
+        collection =self.db['tblphongtro'] #Table
+        try:
+            collection.insert_one(dict(item))
+            return item
+        except Exception as e:
+            print(f"Error inserting item: {e}")       
+        pass
 
 class CSVDBPhanTichDinhLuongPipeline:
     def open_spider(self, spider):
