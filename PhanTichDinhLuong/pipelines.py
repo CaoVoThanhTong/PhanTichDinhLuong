@@ -1,36 +1,31 @@
-import json
+import scrapy
 import pymongo
-import os 
+import json
+# from bson.objectid import ObjectId
+# useful for handling different item types with a single interface
+from itemadapter import ItemAdapter
+from scrapy.exceptions import DropItem
+import csv
+import os
 
 class MongoDBPhanTichDinhLuongPipeline:
     def __init__(self):
-        econnect = os.environ.get('MONGO_HOST')
-        if not econnect:
-            raise ValueError("MONGO_HOST environment variable is not set.")
-        
-        print(f"Connecting to MongoDB at: mongodb://{econnect}:27017")
-        
-        try:
-            self.client = pymongo.MongoClient(f'mongodb://{econnect}:27017')
-            self.db = self.client['dbmycrawler']
-            print("Successfully connected to MongoDB")
-        except Exception as e:
-            print(f"Error connecting to MongoDB: {e}")
-            raise e
-        
+        # Connection String
+        econnect = str(os.environ['Mongo_HOST'])
+        #self.client = pymongo.MongoClient('mongodb://mymongodb:27017')
+        self.client = pymongo.MongoClient('mongodb://'+econnect+':27017')
+        self.db = self.client['dbmycrawler'] #Create Database      
+        pass
+    
     def process_item(self, item, spider):
-        collection = self.db['tblphongtro']
+        
+        collection =self.db['tblphongtro123'] #Create Collection or Table
         try:
-           
-            if not isinstance(item, dict):
-                item = dict(item)
-                
-            collection.insert_one(item)
-            print("Item inserted successfully")
+            collection.insert_one(dict(item))
             return item
         except Exception as e:
-            print(f"Error inserting item into MongoDB: {e}")
-            return None
+            raise DropItem(f"Error inserting item: {e}")       
+        pass
 
 class CSVDBPhanTichDinhLuongPipeline:
     def open_spider(self, spider):
