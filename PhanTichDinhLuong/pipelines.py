@@ -11,14 +11,13 @@ import os
 class MongoDBPhanTichDinhLuongPipeline:
     def __init__(self):
         # Connection String
-        econnect = str(os.environ['MONGO_HOST'],'mymongodb')
+        econnect = str(os.environ['Mongo_HOST'])
         #self.client = pymongo.MongoClient('mongodb://mymongodb:27017')
         self.client = pymongo.MongoClient('mongodb://'+econnect+':27017')
         self.db = self.client['dbmycrawler'] #Create Database      
         pass
     
     def process_item(self, item, spider):
-        
         collection =self.db['tblphongtro123'] #Create Collection or Table
         try:
             collection.insert_one(dict(item))

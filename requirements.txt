@@ -1,3 +1,3 @@
-itemadapter==0.9.0
-pymongo==4.8.0
-Scrapy==2.11.2
+Scrapy
+pymongo
+itemadapter
