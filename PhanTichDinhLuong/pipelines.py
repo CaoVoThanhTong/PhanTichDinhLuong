@@ -1,21 +1,29 @@
-import json
+import scrapy
 import pymongo
+import json
+# from bson.objectid import ObjectId
+# useful for handling different item types with a single interface
+from itemadapter import ItemAdapter
+from scrapy.exceptions import DropItem
+import csv
+import os
 
 class MongoDBPhanTichDinhLuongPipeline:
     def __init__(self):
-        
-        self.client = pymongo.MongoClient('mongodb://localhost:27017')
-        self.db = self.client['dbmycrawler'] #Database      
+        # Connection String
+        econnect = str(os.environ['Mongo_HOST'])
+        #self.client = pymongo.MongoClient('mongodb://mymongodb:27017')
+        self.client = pymongo.MongoClient('mongodb://'+econnect+':27017')
+        self.db = self.client['dbmycrawler'] #Create Database      
         pass
     
     def process_item(self, item, spider):
-        
-        collection =self.db['tblphongtro'] #Table
+        collection =self.db['tblphongtro123'] #Create Collection or Table
         try:
             collection.insert_one(dict(item))
             return item
         except Exception as e:
-            print(f"Error inserting item: {e}")       
+            raise DropItem(f"Error inserting item: {e}")       
         pass
 
 class CSVDBPhanTichDinhLuongPipeline:
