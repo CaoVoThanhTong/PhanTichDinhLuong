@@ -1,5 +1,5 @@
 import scrapy
-from PhanTichDinhLuong.items import PhongTroItem
+from MongoDBPhongTro.items import PhongTroItem
 
 class PhongTro123Spider(scrapy.Spider):
     name = "PhongTro123Crawler"
