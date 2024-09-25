@@ -64,3 +64,19 @@ docker exec -it mymongodb mongosh
 show dbs
 use mycrawlerdb
 ```
+
+### Kiểm tra connect
+
+Nếu mà connect không chạy được thì hãy kiểm tra phongtro123crawler app bằng cách kiểm tra nó
+
+```bash
+docker exec -it phongtro123crawler /bin/bash
+apt-get update
+apt-get install netcat-openbsd -y
+```
+
+Và link , nó vào bằng tay
+
+```bash
+nc -zv mymongodb 27017
+```
