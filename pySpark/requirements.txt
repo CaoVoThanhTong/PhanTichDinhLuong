@@ -1,0 +1,6 @@
+pyspark
+pymongo
+itemadapter
+pandas
+numpy
+jupyterlab

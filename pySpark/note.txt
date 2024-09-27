@@ -1,0 +1,5 @@
+jupyter nbconvert --to script Processing.ipynb
+docker cp -L PhongTro.py spark:opt/spark/work-dir/mysparkapp.py
+docker exec -it spark bash
+cd ..
+./bin/spark-submit ./work-dir/mysparkapp.py
