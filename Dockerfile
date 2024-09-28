@@ -7,6 +7,9 @@ WORKDIR /usr/src/app
 COPY requirements.txt ./
 RUN pip3 install --no-cache-dir -r requirements.txt
 
+# Cài đặt các công cụ mạng nếu cần
+RUN apt-get update && apt-get install -y iputils-ping net-tools
+
 # Sao chép toàn bộ mã nguồn vào container
 COPY . .
 

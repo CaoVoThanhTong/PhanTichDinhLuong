@@ -1,3 +1,9 @@
-Scrapy
+scrapy
 pymongo
 itemadapter
+pyspark
+pymongo
+itemadapter
+pandas
+numpy
+jupyterlab

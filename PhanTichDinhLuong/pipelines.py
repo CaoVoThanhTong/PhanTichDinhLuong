@@ -14,7 +14,7 @@ class MongoDBPhanTichDinhLuongPipeline:
         econnect = str(os.environ['Mongo_HOST'])
         #self.client = pymongo.MongoClient('mongodb://mymongodb:27017')
         self.client = pymongo.MongoClient('mongodb://'+econnect+':27017')
-        self.db = self.client['dbmycrawler1'] #Create Database      
+        self.db = self.client['dbmycrawler'] #Create Database      
         pass
     
     def process_item(self, item, spider):
