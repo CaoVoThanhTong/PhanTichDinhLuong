@@ -24,13 +24,13 @@ class PhongTro123Spider(scrapy.Spider):
         item['title'] = response.xpath('//h1[@class="page-h1"]/a/@title').get()
         item['address'] = response.xpath('//address[@class="post-address"]/text()').get()
         item['price'] = response.xpath('//div[@class="item price"]/span/text()').get()
-
+        
         item['acreage'] = response.xpath('//div[@class="item acreage"]/span/text()').get()
         item['published'] = response.xpath('//div[@class="item published"]/span/text()').get()
         item['hashtag'] = response.xpath('//div[@class="item hashtag"]/span/text()').get()
 
         item['description'] = response.xpath('//section[@class="section post-main-content"]/div/p/text()').getall()
-
+        item['phone_number'] = response.xpath('//section[@class="section post-contact"]/div[@class="section-content"]/table/tr[2]/td[2]/text()').get()
         item['package'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Gói tin:")]]/td/span/text()').get()
         item['category'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Chuyên mục:")]]/td/a/@title').get()
         item['public_date'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Ngày đăng:")]]/td/time/@title').get()
