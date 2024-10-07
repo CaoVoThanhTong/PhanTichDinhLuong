@@ -26,8 +26,7 @@ class PhongTro123Spider(scrapy.Spider):
         item['price'] = response.xpath('//div[@class="item price"]/span/text()').get()
         
         item['acreage'] = response.xpath('//div[@class="item acreage"]/span/text()').get()
-        item['published'] = response.xpath('//div[@class="item published"]/span/text()').get()
-        item['hashtag'] = response.xpath('//div[@class="item hashtag"]/span/text()').get()
+        # item['published'] = response.xpath('//div[@class="item published"]/span/text()').get()
 
         item['description'] = response.xpath('//section[@class="section post-main-content"]/div/p/text()').getall()
         item['phone_number'] = response.xpath('//section[@class="section post-contact"]/div[@class="section-content"]/table/tr[2]/td[2]/text()').get()
@@ -36,5 +35,6 @@ class PhongTro123Spider(scrapy.Spider):
         item['public_date'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Ngày đăng:")]]/td/time/@title').get()
         item['expired_date'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Ngày hết hạn:")]]/td/time/@title').get()
 
-        
+        item['ad_type'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Loại tin rao:")]]/td[2]/text()').get()
+        item['target_renter'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Đối tượng thuê:")]]/td[2]/text()').get()
         yield item
