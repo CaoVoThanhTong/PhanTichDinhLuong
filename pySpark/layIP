@@ -1,0 +1,6 @@
+docker inspect mypostgres | grep IPAddress
+
+
+sql
+ALTER TABLE public.adpackage
+ALTER COLUMN price TYPE decimal USING price::decimal;
