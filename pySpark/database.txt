@@ -1,0 +1,34 @@
+CREATE TABLE users (
+    user_id SERIAL PRIMARY KEY,  -- Khóa chính
+    phone_number TEXT NOT NULL  -- Đổi thành TEXT
+);
+
+CREATE TABLE category (
+    category_id SERIAL PRIMARY KEY,  -- Khóa chính
+    category_name TEXT NOT NULL  -- Đổi thành TEXT
+);
+
+CREATE TABLE adpackage (
+    package_id SERIAL PRIMARY KEY,  -- Khóa chính
+    package_name TEXT NOT NULL,  -- Đổi thành TEXT
+    price TEXT NOT NULL  -- Giữ nguyên kiểu DECIMAL
+);
+
+CREATE TABLE phongtro (
+    id SERIAL PRIMARY KEY,  -- Khóa chính
+    title TEXT NOT NULL,  -- Đổi thành TEXT
+    price TEXT NOT NULL,  -- Giữ nguyên kiểu DECIMAL
+    address TEXT NOT NULL,  -- Đổi thành TEXT
+    ad_type TEXT NOT NULL,  -- Giữ nguyên
+    target_renter TEXT NOT NULL,  -- Giữ nguyên
+    package TEXT NOT NULL,  -- Đổi thành TEXT
+    category TEXT NOT NULL,  -- Đổi thành TEXT
+    acreage FLOAT NOT NULL,  -- Giữ nguyên kiểu FLOAT
+    phone_number TEXT,  -- Đổi thành TEXT
+    description TEXT,  -- Giữ nguyên
+    category_id INT REFERENCES category(category_id),  -- Khóa ngoại
+    user_id INT REFERENCES users(user_id),  -- Khóa ngoại
+    package_id INT REFERENCES adpackage(package_id),  -- Khóa ngoại
+    public_date TEXT,  -- Giữ nguyên
+    expired_date TEXT  -- Giữ nguyên
+);
