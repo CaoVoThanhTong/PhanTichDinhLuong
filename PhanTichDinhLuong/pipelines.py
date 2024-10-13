@@ -11,9 +11,11 @@ import os
 class MongoDBPhanTichDinhLuongPipeline:
     def __init__(self):
         # Connection String
-        econnect = str(os.environ['Mongo_HOST'])
-        #self.client = pymongo.MongoClient('mongodb://mymongodb:27017')
-        self.client = pymongo.MongoClient('mongodb://'+econnect+':27017')
+        # econnect = str(os.environ['Mongo_HOST'])
+        # print('connect '+econnect)
+        
+        self.client = pymongo.MongoClient('mongodb://127.0.0.1:27017')
+        # self.client = pymongo.MongoClient('mongodb://'+econnect+':27017')
         self.db = self.client['dbmycrawler'] #Create Database      
         pass
     
@@ -46,3 +48,6 @@ class JsonDBPhanTichDinhLuongPipeline:
             line = json.dumps(dict(item), ensure_ascii=False) + '\n'
             file.write(line)
         return item
+#chay class MongoDBPhanTichDinhLuongPipeline
+
+# test=  MongoDBPhanTichDinhLuongPipeline() 

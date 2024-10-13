@@ -5,3 +5,5 @@ ITEM_PIPELINES = {
 }
 SPIDER_MODULES = ['PhanTichDinhLuong.spiders']
 NEWSPIDER_MODULE = 'PhanTichDinhLuong.spiders'
+
+
