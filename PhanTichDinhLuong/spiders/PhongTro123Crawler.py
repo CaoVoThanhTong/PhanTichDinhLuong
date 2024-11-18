@@ -49,4 +49,5 @@ class PhongTro123Spider(scrapy.Spider):
         item['acreage'] = response.xpath('//span[contains(sup/text(), "2")]/text()').get()
         item['price'] = response.xpath('//span[@class="text-green fw-bold"]/text()').get()
         item['package'] = response.xpath('//div[contains(text(), "Gói tin:")]/span/text()').get()
+        item['features'] = response.xpath('//i[@class="icon check-circle-fill green me-2"]/following-sibling::text()').getall()
         yield item
