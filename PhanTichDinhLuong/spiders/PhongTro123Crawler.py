@@ -35,9 +35,10 @@ class PhongTro123Spider(scrapy.Spider):
         item['acreage'] = response.xpath('//span[contains(sup/text(), "2")]/text()').get()
         item['price'] = response.xpath('//span[@class="text-green fs-5 fw-bold"]/text()').get()
         item['package'] = response.xpath('//div[contains(text(), "Gói tin:")]/span/text()').get()
+        # item['features'] = response.xpath('//i[@class="icon check-circle-fill green me-2"]/following-sibling::text()').getall()
         features = response.xpath('//i[@class="icon check-circle-fill green me-2"]/following-sibling::text()').getall()
         # default values for features = 0
-        item['interiorFull'] = 0
+        item['elevator'] = 0
         item['refrigerator'] = 0
         item['airConditioning'] = 0
         item['washer'] = 0
@@ -45,13 +46,13 @@ class PhongTro123Spider(scrapy.Spider):
         item['ownerless'] = 0
         item['freetime'] = 0
         for feature in features:
-            if feature.strip() == 'Đầy đủ nội thất':
-                item['interiorFull'] = 1
-            elif feature.strip() == 'Tủ lạnh':
+            if feature.strip() == 'Có thang máy':
+                item['elevator'] = 1
+            elif feature.strip() == 'Có tủ lạnh':
                 item['refrigerator'] = 1
-            elif feature.strip() == 'Máy lạnh':
+            elif feature.strip() == 'Có máy lạnh':
                 item['airConditioning'] = 1
-            elif feature.strip() == 'Máy giặt':
+            elif feature.strip() == 'Có máy giặt':
                 item['washer'] = 1
             elif feature.strip() == 'Có gác':
                 item['attic'] = 1
@@ -59,6 +60,4 @@ class PhongTro123Spider(scrapy.Spider):
                 item['ownerless'] = 1
             elif feature.strip() == 'Giờ giấc tự do':
                 item['freetime'] = 1
-        
-        
         yield item
