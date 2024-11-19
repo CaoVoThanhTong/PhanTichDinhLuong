@@ -6,7 +6,6 @@ class PhongTroItem(scrapy.Item):
     price = scrapy.Field()
     address = scrapy.Field()
     acreage = scrapy.Field()
-    # published = scrapy.Field()
     description = scrapy.Field()
     phone_number = scrapy.Field()
     package = scrapy.Field()
@@ -15,3 +14,4 @@ class PhongTroItem(scrapy.Item):
     expired_date = scrapy.Field()
     ad_type = scrapy.Field()
     target_renter = scrapy.Field()
+    features = scrapy.Field()
