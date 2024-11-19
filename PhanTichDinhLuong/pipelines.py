@@ -30,13 +30,13 @@ class MongoDBPhanTichDinhLuongPipeline:
 class CSVDBPhanTichDinhLuongPipeline:
     def open_spider(self, spider):
         self.file = open('phongtro.csv', 'w', encoding='utf-8')
-        self.file.write('address;category;acreage;price;package\n')
+        self.file.write('Địa chỉ;Loại;Diện tích;Giá;Gói tin;Đầy đủ nội thất;Có gác;Có máy lạnh;Có máy giặt;Có tủ lạnh;Không chung chủ;Giờ giấc tự do\n')
 
     def close_spider(self, spider):
         self.file.close()
 
     def process_item(self, item, spider):
-        line = f"{item['address']}; {item['category']}; {item['acreage']}; {item['price']}; {item['package']}; {item['features']}\n"
+        line = f"{item['address']}; {item['category']}; {item['acreage']}; {item['price']}; {item['package']}; {item['features_interiorFull']}; {item['features_Attic']}; {item['features_airConditioning']}; {item['features_washer']}; {item['features_refrigerator']}; {item['features_ownerless']}; {item['features_freetime']}\n"
         self.file.write(line)
         return item
     

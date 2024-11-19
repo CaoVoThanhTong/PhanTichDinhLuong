@@ -15,3 +15,11 @@ class PhongTroItem(scrapy.Item):
     ad_type = scrapy.Field()
     target_renter = scrapy.Field()
     features = scrapy.Field()
+
+    features_freetime = scrapy.Field(); #Giờ giất tự do
+    features_refrigerator = scrapy.Field(); #Tủ lạnh
+    features_airConditioning = scrapy.Field(); #Máy lạnh
+    features_interiorFull = scrapy.Field(); #Đầy đủ nội thất
+    features_washer = scrapy.Field(); #Máy giặt
+    features_Attic = scrapy.Field(); #Có gác
+    features_ownerless = scrapy.Field(); #Không chung chủ
