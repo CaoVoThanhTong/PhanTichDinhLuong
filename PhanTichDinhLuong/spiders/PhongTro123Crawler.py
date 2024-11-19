@@ -29,25 +29,35 @@ class PhongTro123Spider(scrapy.Spider):
             yield request
 
     def parse_room_detail(self, response):
-        item = response.meta['datacourse']
-        # item['title'] = response.xpath('//h1[@class="page-h1"]/a/@title').get()
-        # item['address'] = response.xpath('//address[@class="post-address"]/text()').get()
-        # item['price'] = response.xpath('//div[@class="item price"]/span/text()').get()
-        # item['acreage'] = response.xpath('//div[@class="item acreage"]/span/text()').get()
-        # item['published'] = response.xpath('//div[@class="item published"]/span/text()').get()
-        # item['description'] = response.xpath('//section[@class="section post-main-content"]/div/p/text()').getall()
-        # item['phone_number'] = response.xpath('//section[@class="section post-contact"]/div[@class="section-content"]/table/tr[2]/td[2]/text()').get()
-        # item['package'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Gói tin:")]]/td/span/text()').get()
-        # item['category'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Chuyên mục:")]]/td/a/@title').get()
-        # item['public_date'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Ngày đăng:")]]/td/time/@title').get()
-        # item['expired_date'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Ngày hết hạn:")]]/td/time/@title').get()
-        # item['ad_type'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Loại tin rao:")]]/td[2]/text()').get()
-        # item['target_renter'] = response.xpath('//table[@class="table"]//tr[td[contains(text(), "Đối tượng thuê:")]]/td[2]/text()').get()
-        
+        item = response.meta['datacourse']        
         item['address'] = response.xpath('//address/text()').get()
         item['category'] = response.xpath('//a[@class="fs-6 d-flex h-100 border-bottom border-2 border-orange text-orange"]/text()').get()
         item['acreage'] = response.xpath('//span[contains(sup/text(), "2")]/text()').get()
-        item['price'] = response.xpath('//span[@class="text-green fw-bold"]/text()').get()
+        item['price'] = response.xpath('//span[@class="text-green fs-5 fw-bold"]/text()').get()
         item['package'] = response.xpath('//div[contains(text(), "Gói tin:")]/span/text()').get()
-        item['features'] = response.xpath('//i[@class="icon check-circle-fill green me-2"]/following-sibling::text()').getall()
+        # item['features'] = response.xpath('//i[@class="icon check-circle-fill green me-2"]/following-sibling::text()').getall()
+        features = response.xpath('//i[@class="icon check-circle-fill green me-2"]/following-sibling::text()').getall()
+        # default values for features = 0
+        item['elevator'] = 0
+        item['refrigerator'] = 0
+        item['airConditioning'] = 0
+        item['washer'] = 0
+        item['attic'] = 0
+        item['ownerless'] = 0
+        item['freetime'] = 0
+        for feature in features:
+            if feature.strip() == 'Có thang máy':
+                item['elevator'] = 1
+            elif feature.strip() == 'Có tủ lạnh':
+                item['refrigerator'] = 1
+            elif feature.strip() == 'Có máy lạnh':
+                item['airConditioning'] = 1
+            elif feature.strip() == 'Có máy giặt':
+                item['washer'] = 1
+            elif feature.strip() == 'Có gác':
+                item['attic'] = 1
+            elif feature.strip() == 'Không chung chủ':
+                item['ownerless'] = 1
+            elif feature.strip() == 'Giờ giấc tự do':
+                item['freetime'] = 1
         yield item

@@ -27,18 +27,18 @@ class MongoDBPhanTichDinhLuongPipeline:
             raise DropItem(f"Error inserting item: {e}")       
         pass
 
-class CSVDBPhanTichDinhLuongPipeline:
-    def open_spider(self, spider):
-        self.file = open('phongtro.csv', 'w', encoding='utf-8')
-        self.file.write('address;category;acreage;price;package\n')
+# class CSVDBPhanTichDinhLuongPipeline:
+#     def open_spider(self, spider):
+#         self.file = open('phongtro.csv', 'w', encoding='utf-8')
+#         self.file.write('address;category;acreage;price;package;freetime;refrigerator;airConditioning;interiorFull;washer;attic;ownerless\n')
 
-    def close_spider(self, spider):
-        self.file.close()
+#     def close_spider(self, spider):
+#         self.file.close()
 
-    def process_item(self, item, spider):
-        line = f"{item['address']}; {item['category']}; {item['acreage']}; {item['price']}; {item['package']}; {item['features']}\n"
-        self.file.write(line)
-        return item
+#     def process_item(self, item, spider):
+#         line = f"{item['address']}; {item['category']}; {item['acreage']}; {item['price']}; {item['package']}; {item['freetime']}; {item['refrigerator']}; {item['airConditioning']}; {item['interiorFull']}; {item['washer']}; {item['attic']}; {item['ownerless']}\n"
+#         self.file.write(line)
+#         return item
     
 # class JsonDBPhanTichDinhLuongPipeline:
 #     def process_item(self, item, spider):
