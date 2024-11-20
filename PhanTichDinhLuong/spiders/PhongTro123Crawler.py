@@ -11,12 +11,12 @@ class PhongTro123Spider(scrapy.Spider):
         'https://phongtro123.com/cho-thue-can-ho-chung-cu-mini', #3
         'https://phongtro123.com/cho-thue-can-ho-dich-vu', #4
         'https://phongtro123.com/tim-nguoi-o-ghep', #5
-        'https://phongtro123.com/cho-thue-mat-bang', #6
+        # 'https://phongtro123.com/cho-thue-mat-bang', #6
         ]
     
     def start_requests(self):
-        for j in range(0, 1):
-            for i in range(1, 2):
+        for j in range(0, 6):
+            for i in range(1, 10):
                 yield scrapy.Request(url=f'{self.start_urls[j]}?page={i}', callback=self.parse)
 
     def parse(self, response):
@@ -45,6 +45,8 @@ class PhongTro123Spider(scrapy.Spider):
         item['attic'] = 0
         item['ownerless'] = 0
         item['freetime'] = 0
+        # if features is None:
+        #     return
         for feature in features:
             if feature.strip() == 'Có thang máy':
                 item['elevator'] = 1

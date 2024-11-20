@@ -1,1 +1,939 @@
-address;category;acreage;price;package;freetime;refrigerator;airConditioning;interiorFull;washer;attic;ownerless
+diachi;phanloai;dientich;gia;goitin;giogiactudo;tulanh;maylanh;thangmay;maygiat;gac;khongchungchu
+Đường Lê Quang Định, Phường 11, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Lê Quang Định, Phường 1, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Đường số 1, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Phòng trọ; 28 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Đường Lũy Bán Bích, Phường Phú Thọ Hòa, Quận Tân Phú, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+963/1B Lò Gốm, Phường 8, Quận 6, Hồ Chí Minh - ; Phòng trọ; 19 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+10 ngõ 135/73/1 Đội Cấn, Phường Ngọc Hà, Quận Ba Đình, Hà Nội - ; Nhà nguyên căn; 30 m; None; Tin thường; 1; 0; 1; 0; 0; 1; 0
+Đường Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh, Hồ Chí Minh - ; Nhà nguyên căn; 55 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Huỳnh Mẫn Đạt, Phường 7, Quận 5, Hồ Chí Minh - ; Nhà nguyên căn; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Phố Tạ Quang Bửu, Phường 6, Quận 8, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+90/1 Đường Hoa Bằng, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội - ; Nhà nguyên căn; 64 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+168/12 Đường Trường Chinh, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 10 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 1; 0
+247/211 Khương Trung, Phường Khương Trung, Quận Thanh Xuân, Hà Nội - ; Phòng trọ; 25 m; None; Tin VIP 3; 1; 1; 1; 1; 0; 1; 1
+Cách Mạng Tháng Tám, Phường 5, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 27 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 0
+48 Trương Văn Hoàn, Phường 9, Thành Phố Đà Lạt, Lâm Đồng - ; Nhà nguyên căn; 117 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+62 Đường số 6, Phường Linh Trung, Thủ Đức, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+40/43e Đường Trần Quang Diệu, Phường 14, Quận 3, Hồ Chí Minh - ; Nhà nguyên căn; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Kim Ngưu, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội - ; Nhà nguyên căn; 120 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường số 475, Phường Phước Long B, Quận 9, Hồ Chí Minh - ; Nhà nguyên căn; 85 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+46 Nguyễn Thuật, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng - ; Nhà nguyên căn; 90 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+47 Đường Quốc lộ 1A, Phường Linh Trung, Thủ Đức, Hồ Chí Minh - ; Nhà nguyên căn; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Phan Văn Trị, Phường 22, Quận Bình Thạnh, Hồ Chí Minh - ; Nhà nguyên căn; 67.5 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Lý Thái Tổ, Phường 10, Quận 10, Hồ Chí Minh - ; Nhà nguyên căn; 60 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+B14A/11/11S Cây Cám, Phường Bình Hưng Hòa B, Quận Bình Tân, Hồ Chí Minh - ; Nhà nguyên căn; 56 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Lô D2 Đường số 2, Xã Phước Lợi, Huyện Bến Lức, Long An - ; Nhà nguyên căn; 125 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+129/60 Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh - ; Căn hộ mini; 70 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+108 Đường Võ Duy Ninh, Phường 22, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+82 Đường Võ Thị Sáu, Phường Tân Định, Quận 1, Hồ Chí Minh - ; Phòng trọ; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Hòa Bình, Phường Hiệp Tân, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ chung cư; 68 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Đường Lê Hồng Phong, Phường 1, Quận 10, Hồ Chí Minh - ; Căn hộ dịch vụ; 31 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+22 Đường Âu Cơ, Phường Tân Thành, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ chung cư; 93 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+21, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Đường Cao Thắng, Phường 12, Quận 10, Hồ Chí Minh - ; Căn hộ dịch vụ; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường số 11N, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 1; 1; 1; 1; 0; 1; 1
+20 Đường số 12, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Võ Thị Sáu, Phường 6, Quận 3, Hồ Chí Minh - ; Căn hộ chung cư; 80 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Tô Ký, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh - ; Căn hộ dịch vụ; 20 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+Tô Ký, Phường Trung Mỹ Tây, Quận 12, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin thường; 1; 1; 1; 0; 0; 1; 1
+Đường Hồ Văn Huê, Phường 9, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 0; 1; 0; 0; 0; 0; 0
+115 Nguyễn Công Hoan, Phường 7, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Lương Ngọc Quyến, Phường 13, Quận 8, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Đường Phổ Quang, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 55 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+54 Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 45 m; None; Tin thường; 1; 1; 1; 1; 0; 1; 1
+Lê Văn Sỹ, Phường 1, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 1; 1
+Đường số 14, Phường Phú Mỹ, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 50 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Lê Thị Riêng, Phường Bến Thành, Quận 1, Hồ Chí Minh - ; Căn hộ dịch vụ; 44 m; None; Tin thường; 1; 1; 1; 1; 0; 1; 1
+3/2, Phường 11, Quận 10, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Trần Kế Xương, Phường 7, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ chung cư; 67 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Lê Hồng Phong, Phường 1, Quận 10, Hồ Chí Minh - ; Căn hộ dịch vụ; 31 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Lâm Văn Bền, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+5 Phổ Quang, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ chung cư; 80 m; None; Tin VIP 3; 1; 1; 1; 1; 0; 1; 1
+Phường Phú Hữu, Quận 9, Hồ Chí Minh - ; Căn hộ dịch vụ; 20 m; None; Tin VIP 3; 1; 1; 1; 0; 0; 0; 1
+14 Đường Hồ Văn Huê, Phường 9, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin VIP 3; 1; 1; 1; 1; 0; 0; 1
+78/10 Khánh Hội, Phường 4, Quận 4, Hồ Chí Minh - ; Căn hộ dịch vụ; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+204 Trần Duy Hưng, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội - ; Căn hộ mini; 25 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Vườn Lài, Phường An Phú Đông, Quận 12, Hồ Chí Minh - ; Căn hộ dịch vụ; 20 m; None; Tin VIP 3; 1; 1; 1; 0; 0; 0; 1
+204 Đường Trần Duy Hưng, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội - ; Căn hộ dịch vụ; 25 m; None; Tin VIP 3; 1; 1; 1; 1; 0; 1; 1
+Xã Bình Hưng, Huyện Bình Chánh, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Đường Thống Nhất, Phường Đông Hòa, Thành phố Dĩ An, Bình Dương - ; Căn hộ chung cư; 51 m; None; Tin VIP 3; 1; 0; 0; 1; 0; 0; 1
+Đường Nguyễn Văn Linh, Phường 7, Quận 8, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Cao Triều Phát, Phường Tân Phong, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 54 m; None; Tin VIP 3; 1; 1; 1; 1; 0; 1; 1
+Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ chung cư; 30 m; None; Tin VIP 3; 1; 1; 1; 1; 0; 1; 1
+Phường Cát Lái, Quận 2, Hồ Chí Minh - ; Căn hộ chung cư; 60 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+337/11 Đường Trường Chinh, Phường 14, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 45 m; None; Tin VIP 2; 0; 0; 0; 0; 0; 0; 0
+Phường Phú Mỹ, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin VIP 3; 1; 1; 1; 1; 0; 1; 1
+90 Đường số 4, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 28 m; None; Tin VIP 2; 0; 0; 0; 0; 0; 0; 0
+209/11 Đường Trần Thị Hoa, Phường An Bình, Thành Phố Biên Hòa, Đồng Nai - ; Nhà nguyên căn; 36 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Văn Linh, Xã Bình Hưng, Huyện Bình Chánh, Hồ Chí Minh - ; Nhà nguyên căn; 156 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+E7/17A Đường Nguyễn Hữu Trí, Thị trấn Tân Túc, Huyện Bình Chánh, Hồ Chí Minh - ; Nhà nguyên căn; 65 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Cách Mạng Tháng Tám, Phường 12, Quận 10, Hồ Chí Minh - ; Nhà nguyên căn; 58 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Xã Xuân Thới Sơn, Huyện Hóc Môn, Hồ Chí Minh - ; Nhà nguyên căn; 108 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Thị Rành, Xã Nhuận Đức, Huyện Củ Chi, Hồ Chí Minh - ; Nhà nguyên căn; 420 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Phan Huy Ích, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+11, Xã Phước Kiển, Huyện Nhà Bè, Hồ Chí Minh - ; Nhà nguyên căn; 100 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Ngõ 559 Đường Kim Ngưu, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội - ; Nhà nguyên căn; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+1632/11/16 Huỳnh Tấn Phát, Thị trấn Nhà Bè, Huyện Nhà Bè, Hồ Chí Minh - ; Nhà nguyên căn; 83 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+195/9 Đường Hoàng Văn Thụ, Phường 7, Thành Phố Vũng Tàu, Bà Rịa - Vũng Tàu - ; Nhà nguyên căn; 55 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Rừng Sác, Xã Bình Khánh, Huyện Cần Giờ, Hồ Chí Minh - ; Nhà nguyên căn; 140 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Tổ 2 Đường Đê Vàng, Phường Phúc Lợi, Quận Long Biên, Hà Nội - ; Nhà nguyên căn; 50 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+304/10 Đường Hòa Hưng, Phường 13, Quận 10, Hồ Chí Minh - ; Nhà nguyên căn; 21.6 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+H4 KDC Tiến Thạnh Tiến Lợi Trần Hưng Đạo, Phường Đức Long, Thành Phố Phan Thiết, Bình Thuận - ; Nhà nguyên căn; 120 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường số 5, Phường Long Tuyền, Quận Bình Thuỷ, Cần Thơ - ; Nhà nguyên căn; 60 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+42, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh - ; Nhà nguyên căn; 65 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Số 155 Đường Đức Thượng, Xã Đức Thượng, Huyện Hoài Đức, Hà Nội - ; Nhà nguyên căn; 140 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+261/15/84/4 Đường Đình Phong Phú, Phường Tăng Nhơn Phú B, Quận 9, Hồ Chí Minh - ; Nhà nguyên căn; 80 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+đường An Dương, Phường Yên Phụ, Quận Tây Hồ, Hà Nội - ; Nhà nguyên căn; 130 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Số 115 Định Công, Phường Định Công, Quận Hoàng Mai, Hà Nội - ; Nhà nguyên căn; 60 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+14/6 Đường Hiệp Thành 43, Phường Hiệp Thành, Quận 12, Hồ Chí Minh - ; Nhà nguyên căn; 240 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+15 Nguyễn Trãi, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội - ; Nhà nguyên căn; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Trường Sơn, Phường 15, Quận 10, Hồ Chí Minh - ; Nhà nguyên căn; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+82/33 Đường số 2, Phường Hiệp Bình Phước, Thủ Đức, Hồ Chí Minh - ; Nhà nguyên căn; 24 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh - ; Nhà nguyên căn; 70 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+1348 30/4, Phường 11, Thành Phố Vũng Tàu, Bà Rịa - Vũng Tàu - ; Nhà nguyên căn; 130 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Trần Khánh Dư, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng - ; Nhà nguyên căn; 45 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+77/18 Võ Thị Thừa, Phường An Phú Đông, Quận 12, Hồ Chí Minh - ; Nhà nguyên căn; 200 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+216 Đường Tam Trinh, Phường Yên Sở, Quận Hoàng Mai, Hà Nội - ; Nhà nguyên căn; 300 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+73/29 Đường Ni Sư Huỳnh Liên, Phường 10, Quận Tân Bình, Hồ Chí Minh - ; Nhà nguyên căn; 28 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+457 Lê Đại Hành, Phường 11, Quận 11, Hồ Chí Minh - ; Phòng trọ; 40 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+477 Đường Âu Cơ, Phường Phú Trung, Quận Tân Phú, Hồ Chí Minh - ; Phòng trọ; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+54 Đường Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Hàn Hải Nguyên, Phường 8, Quận 11, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin miễn phí; 0; 0; 1; 0; 0; 0; 0
+658M Đường Phạm Văn Chí, Phường 8, Quận 6, Hồ Chí Minh - ; Phòng trọ; 18 m; None; Tin miễn phí; 1; 0; 0; 0; 0; 1; 1
+Bành Văn Trân, Phường 7, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 27 m; None; Tin thường; 0; 0; 1; 0; 0; 0; 1
+Phan Văn Trị, Phường 7, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 23 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 1; 1
+41 Đường Thạnh Xuân 23, Phường Thạnh Xuân, Quận 12, Hồ Chí Minh - ; Phòng trọ; 45 m; None; Tin thường; 1; 0; 0; 0; 0; 1; 1
+198/48E Đường Bưng Ông Thoàn, Phường Phú Hữu, Quận 9, Hồ Chí Minh - ; Phòng trọ; 52 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Trần Quang Diệu, Phường 14, Quận 3, Hồ Chí Minh - ; Phòng trọ; 12 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Ảnh Thủ, Phường Trung Mỹ Tây, Quận 12, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin thường; 1; 0; 1; 0; 0; 0; 1
+21/1 Trường Sơn, Phường 4, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+140 Phạm Văn Chiêu, Phường 14, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 12 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+328/76/27 Đường Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 22 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+140 Đường Phạm Văn Chiêu, Phường 14, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Văn Công, Phường 3, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 15 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Muồng Tím, Phường Cát Lái, Quận 2, Hồ Chí Minh - ; Nhà nguyên căn; 120 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+38 Nguyễn Văn Trỗi, Phường 15, Quận Phú Nhuận, Hồ Chí Minh - ; Phòng trọ; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+20 Mỹ Hòa 1, Xã Trung Chánh, Huyện Hóc Môn, Hồ Chí Minh - ; Nhà nguyên căn; 75 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+148 Đường DX 02, Phường Phú Mỹ, Thành phố Thủ Dầu Một, Bình Dương - ; Nhà nguyên căn; 50 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+1283 Huỳnh Tấn Phát, Phường Phú Thuận, Quận 7, Hồ Chí Minh - ; Nhà nguyên căn; 18 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Ngõ 230 Đường Định Công Thượng, Phường Kim Giang, Quận Thanh Xuân, Hà Nội - ; Nhà nguyên căn; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Hồng Đào, Phường 4, Quận Tân Bình, Hồ Chí Minh - ; Nhà nguyên căn; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+G86 b Hưng lân 1A Đường 7, Phường Bà Điểm, Huyện Hóc Môn, Hồ Chí Minh - ; Nhà nguyên căn; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+403 Đường Dương Thị Mười, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh - ; Nhà nguyên căn; 80 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Hồ Chí Minh - ; Nhà nguyên căn; 128 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+155 Đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh - ; Nhà nguyên căn; 500 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+38/50 Đường Nguyễn Văn Vịnh, Phường Hiệp Tân, Quận Tân Phú, Hồ Chí Minh - ; Nhà nguyên căn; 64 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Bình Hưng Hòa A, Phường Bình Hưng Hòa A, Quận Bình Tân, Hồ Chí Minh - ; Nhà nguyên căn; 88 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh - ; Nhà nguyên căn; 60 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+229 Đường Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh - ; Nhà nguyên căn; 75 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Chương Dương, Phường Nguyễn Văn Cừ, Thành Phố Quy Nhơn, Bình Định - ; Nhà nguyên căn; 224 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Lê Lợi, Phường 4, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 80 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+5 ngõ 99 Đường Nguyễn Sơn, Phường Gia Thụy, Quận Long Biên, Hà Nội - ; Nhà nguyên căn; 60 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Phạm Văn Chiêu, Phường 9, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 48 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Phạm Văn Chiêu, Phường 14, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 64 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Ảnh Thủ, Phường Hiệp Thành, Quận 12, Hồ Chí Minh - ; Nhà nguyên căn; 112 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Phạm Văn Chiêu, Phường 14, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 56 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Quang Trung, Phường 8, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 33 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Phạm Văn Chiêu, Phường 9, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 48 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+120 Đường Thích Quảng Đức, Phường 4, Quận Phú Nhuận, Hồ Chí Minh - ; Nhà nguyên căn; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+467/163 Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội - ; Nhà nguyên căn; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+108/27 Võ Duy Ninh, Phường 22, Quận Bình Thạnh, Hồ Chí Minh - ; Nhà nguyên căn; 18 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Lũy Bán Bích, Phường Hòa Thạnh, Quận Tân Phú, Hồ Chí Minh - ; Nhà nguyên căn; 100 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+17 Đường Đào Tấn, Phường 5, Quận 5, Hồ Chí Minh - ; Nhà nguyên căn; 60 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Cầu Giấy, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội - ; Nhà nguyên căn; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Phạm Văn Bạch, Phường 15, Quận Tân Bình, Hồ Chí Minh - ; Nhà nguyên căn; 79 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+331/51/19 Đường Phan Huy Ích, Phường 14, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 91 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+38/13 Tân Thuận Tây, Phường Tân Thuận Tây, Quận 7, Hồ Chí Minh - ; Nhà nguyên căn; 56 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Võ Chí Công, Phường Phú Hữu, Quận 9, Hồ Chí Minh - ; Nhà nguyên căn; 80 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Ngõ 105 Phố Lý Thường Kiệt, Phường Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng - ; Nhà nguyên căn; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Núi Thành, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng - ; Nhà nguyên căn; 75 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Lê Hồng Phong, Phường Tân Bình, Thành phố Dĩ An, Bình Dương - ; Nhà nguyên căn; 110 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Dương Quảng Hàm, Phường 5, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Quang Trung, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 120 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+218 Mỹ Khánh, Xã Phước Hiệp, Huyện Củ Chi, Hồ Chí Minh - ; Nhà nguyên căn; 297 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Phường Bình Trị Đông B, Quận Bình Tân, Hồ Chí Minh - ; Nhà nguyên căn; 80 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Bùi Xương Trạch, Phường Khương Đình, Quận Thanh Xuân, Hà Nội - ; Nhà nguyên căn; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Dương Thị Mười, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh - ; Nhà nguyên căn; 45 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+8 Ngô Thì Sỹ, Phường Vạn Phúc, Quận Hà Đông, Hà Nội - ; Nhà nguyên căn; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Văn Công, Phường 3, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 67 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Xã Tân Lợi, Thành Phố Buôn Ma Thuột, Đắk Lắk - ; Nhà nguyên căn; 120 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Sư Vạn Hạnh, Phường 13, Quận 10, Hồ Chí Minh - ; Nhà nguyên căn; 200 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+490/124/19C Đường Lý Thái Tổ, Phường 10, Quận 10, Hồ Chí Minh - ; Nhà nguyên căn; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Lê Văn Lương, Xã Phước Kiển, Huyện Nhà Bè, Hồ Chí Minh - ; Nhà nguyên căn; 45 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+8 ngõ 91/5 Đường Ngô Thì Sỹ, Phường Vạn Phúc, Quận Hà Đông, Hà Nội - ; Nhà nguyên căn; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Lâm Văn Bền, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Nhà nguyên căn; 270 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+22 Đường số 32, Phường Tân Phong, Quận 7, Hồ Chí Minh - ; Nhà nguyên căn; 72 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Mai Văn Vĩnh, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Nhà nguyên căn; 95 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường số 39, Phường Bình Thuận, Quận 7, Hồ Chí Minh - ; Nhà nguyên căn; 200 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường số 14, Phường 11, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+121 Nguyễn Văn Trỗi, Phường Phước Nguyên, Thành Phố Bà Rịa, Bà Rịa - Vũng Tàu - ; Nhà nguyên căn; 147 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường số 4 Cư xá Đô Thành, Phường 4, Quận 3, Hồ Chí Minh - ; Nhà nguyên căn; 108 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+44/14 Đường Đông Hưng Thuận 6, Phường Tân Hưng Thuận, Quận 12, Hồ Chí Minh - ; Nhà nguyên căn; 70 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+139 Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng - ; Nhà nguyên căn; 68 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+139 Đường Bùi Trang Chước, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng - ; Nhà nguyên căn; 100 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Hương lộ 2, Phường Bình Trị Đông, Quận Bình Tân, Hồ Chí Minh - ; Nhà nguyên căn; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Kiến Hưng, Phường Kiến Hưng, Quận Hà Đông, Hà Nội - ; Nhà nguyên căn; 50 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Kiến Hưng, Phường Kiến Hưng, Quận Hà Đông, Hà Nội - ; Nhà nguyên căn; 54 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+19 Lê Ngọc Hân, Phường 1, Thành Phố Vũng Tàu, Bà Rịa - Vũng Tàu - ; Nhà nguyên căn; 180 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+124/14 Đường Võ Văn Hát, Phường Long Trường, Quận 9, Hồ Chí Minh - ; Nhà nguyên căn; 53 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng - ; Nhà nguyên căn; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Quang Trung, Phường 14, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 70 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Lê Lợi, Phường 4, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 80 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường số 8, Phường Trường Thạnh, Quận 9, Hồ Chí Minh - ; Nhà nguyên căn; 63 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Mỹ Xá, Thành Phố Nam Định, Nam Định - ; Nhà nguyên căn; 400 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Yên Xá, Xã Tân Triều, Huyện Thanh Trì, Hà Nội - ; Nhà nguyên căn; 80 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Tố Hữu, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng - ; Nhà nguyên căn; 70 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Đỗ Nhuận, Phường Sơn Kỳ, Quận Tân Phú, Hồ Chí Minh - ; Nhà nguyên căn; 140 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+139 Đường Bùi Trang Chước, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng - ; Nhà nguyên căn; 100 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+C3/30 Phạm Hùng, Xã Bình Hưng, Huyện Bình Chánh, Hồ Chí Minh - ; Nhà nguyên căn; 60 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Ngõ 495 Đường Nguyễn Trãi, Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội - ; Nhà nguyên căn; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Ngõ 142 Đường Kim Giang, Phường Đại Kim, Quận Hoàng Mai, Hà Nội - ; Nhà nguyên căn; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Bưng Ông Thoàn, Phường Phú Hữu, Quận 9, Hồ Chí Minh - ; Nhà nguyên căn; 75 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Đỗ Xuân Hợp, Phường Phú Hữu, Quận 9, Hồ Chí Minh - ; Nhà nguyên căn; 300 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Liên Phường, Phường Phú Hữu, Quận 9, Hồ Chí Minh - ; Nhà nguyên căn; 230 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Bùi Đình Túy, Phường 24, Quận Bình Thạnh, Hồ Chí Minh - ; Nhà nguyên căn; 80 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, Hồ Chí Minh - ; Nhà nguyên căn; 60 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Trần Nhân Tôn, Phường 2, Quận 10, Hồ Chí Minh - ; Nhà nguyên căn; 4 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+540 Đường Vĩnh Viễn, Phường 6, Quận 10, Hồ Chí Minh - ; Nhà nguyên căn; 50 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Trãi, Phường 3, Quận 5, Hồ Chí Minh - ; Nhà nguyên căn; 52 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Phố Hai Bà Trưng, Phường Tân Định, Quận 1, Hồ Chí Minh - ; Nhà nguyên căn; 70 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Đồng Xoài, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Nhà nguyên căn; 90 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+11 Đường Phan Xích Long, Phường 2, Quận Phú Nhuận, Hồ Chí Minh - ; Nhà nguyên căn; 50 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+861/51/4 Trần Xuân Soạn, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Nhà nguyên căn; 24.4 m; None; Tin miễn phí; 1; 0; 0; 0; 0; 1; 0
+Huỳnh Tấn Phát, Phường Tân Thuận Đông, Quận 7, Hồ Chí Minh - ; Nhà nguyên căn; 176 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+155 Đường số 79, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Nhà nguyên căn; 145 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+92/3 138, Phường Tân Phú, Quận 9, Hồ Chí Minh - ; Nhà nguyên căn; 50 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 0; 1
+275 Đường Đặng Nguyên Cẩn, Phường 14, Quận 6, Hồ Chí Minh - ; Nhà nguyên căn; 62 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+115 Ba Vân, Quận Tân Bình, Hồ Chí Minh - ; Nhà nguyên căn; 104 m; None; Tin miễn phí; 0; 0; 1; 0; 0; 0; 0
+Trần Văn Đang, Phường 9, Quận 3, Hồ Chí Minh - ; Nhà nguyên căn; 45 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đặng Văn Ngữ, Phường 10, Quận Phú Nhuận, Hồ Chí Minh - ; Nhà nguyên căn; 43 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường số 4 Cư xá Đô Thành, Phường 4, Quận 3, Hồ Chí Minh - ; Nhà nguyên căn; 58 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Trần Thị Năm, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh - ; Nhà nguyên căn; 64 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường số 35, Phường Long Bình, Quận 9, Hồ Chí Minh - ; Nhà nguyên căn; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Trần Thị Năm, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh - ; Nhà nguyên căn; 64 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+119C Đường Nguyễn Trung Trực, Phường 4, Thành Phố Đà Lạt, Lâm Đồng - ; Nhà nguyên căn; 70 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+20 Lê Khôi, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng - ; Nhà nguyên căn; 250 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 1; 1
+68 Đường Trần Quang Khải, Phường Tân Định, Quận 1, Hồ Chí Minh - ; Nhà nguyên căn; 48 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Phạm Hữu Lầu, Phường Phú Mỹ, Quận 7, Hồ Chí Minh - ; Nhà nguyên căn; 70 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Cách Mạng Tháng Tám, Phường 15, Quận 10, Hồ Chí Minh - ; Nhà nguyên căn; 36 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+K35/3 Đường Nam Thành, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng - ; Nhà nguyên căn; 150 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Huỳnh Tấn Phát, Thị trấn Nhà Bè, Huyện Nhà Bè, Hồ Chí Minh - ; Nhà nguyên căn; 70 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+35CL, Phường Cát Lái, Quận 2, Hồ Chí Minh - ; Nhà nguyên căn; 85 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường số 6, Phường Hiệp Bình Phước, Thủ Đức, Hồ Chí Minh - ; Nhà nguyên căn; 78 m; None; Tin thường; 1; 0; 0; 0; 0; 1; 1
+68/8 Đường Nguyễn Thị Nhỏ, Phường 9, Quận Tân Bình, Hồ Chí Minh - ; Nhà nguyên căn; 110 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+28 ngõ 84 Võ Thị Sáu, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội - ; Nhà nguyên căn; 48 m; None; Tin miễn phí; 1; 0; 1; 0; 0; 1; 1
+129/15 Trương Văn Hải, Phường Tăng Nhơn Phú B, Quận 9, Hồ Chí Minh - ; Nhà nguyên căn; 65 m; None; Tin thường; 1; 0; 0; 0; 0; 1; 0
+Bình chuẩn 44 Bình Chuẩn, Phường Bình Chuẩn, Thành phố Thuận An, Bình Dương - ; Nhà nguyên căn; 68 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Ngõ 254 đường Minh Khai Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội - ; Nhà nguyên căn; 45 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+20/22/24 Đường 160, Phường Tăng Nhơn Phú A, Quận 9, Hồ Chí Minh - ; Nhà nguyên căn; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+12 Mỹ Đa Đông 4, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng - ; Nhà nguyên căn; 90 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Phố số 49, Phường Tân Tạo, Quận Bình Tân, Hồ Chí Minh - ; Nhà nguyên căn; 225 m; None; Tin miễn phí; 1; 0; 1; 0; 0; 0; 0
+Ngõ 6 Đường Vĩnh Phúc, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội - ; Nhà nguyên căn; 35 m; None; Tin miễn phí; 1; 0; 1; 0; 0; 1; 1
+215 Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh - ; Nhà nguyên căn; 500 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+12 Đường Khuê Mỹ Đông 4, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng - ; Nhà nguyên căn; 90 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+5/22 Trịnh Đình Trọng, Phường 5, Quận 11, Hồ Chí Minh - ; Nhà nguyên căn; 50 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Xóm 5, Thôn Tràng Duệ Đường số 208, Xã Lê Lợi, Huyện An Dương, Hải Phòng - ; Nhà nguyên căn; 120 m; None; Tin miễn phí; 0; 0; 1; 0; 0; 0; 0
+Nhà 11A Chùa Bộc, Phường Trung Liệt, Quận Đống Đa, Hà Nội - ; Nhà nguyên căn; 45 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Tam Đa, Phường Long Trường, Quận 9, Hồ Chí Minh - ; Nhà nguyên căn; 100 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+5/22 Trịnh Đình Trọng, Phường 5, Quận 11, Hồ Chí Minh - ; Nhà nguyên căn; 50 m; None; Tin miễn phí; 1; 0; 0; 0; 0; 1; 1
+Đường Trần Hữu Trang, Phường 11, Quận Phú Nhuận, Hồ Chí Minh - ; Nhà nguyên căn; 18 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Huỳnh Tấn Phát, Xã Phú Xuân, Huyện Nhà Bè, Hồ Chí Minh - ; Nhà nguyên căn; 114 m; None; Tin thường; 1; 0; 0; 0; 0; 1; 1
+Thới An 20, Phường Thới An, Quận 12, Hồ Chí Minh - ; Nhà nguyên căn; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 1; 0
+Thới An 32, Phường Thới An, Quận 12, Hồ Chí Minh - ; Nhà nguyên căn; 100 m; None; Tin miễn phí; 1; 0; 1; 0; 0; 0; 0
+1, Thị trấn Tân Túc, Huyện Bình Chánh, Hồ Chí Minh - ; Nhà nguyên căn; 450 m; None; Tin VIP 3; 0; 0; 1; 0; 0; 0; 0
+84/11 D6 Đường số 13, Phường Thạnh Xuân, Quận 12, Hồ Chí Minh - ; Nhà nguyên căn; 36 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Đường Quang Trung, Phường 10, Quận Gò Vấp, Hồ Chí Minh - ; Nhà nguyên căn; 20 m; None; Tin VIP 3; 1; 1; 1; 0; 0; 1; 1
+231/97/16 Đường Bình Tiên, Phường 8, Quận 6, Hồ Chí Minh - ; Nhà nguyên căn; 40 m; None; Tin VIP 3; 1; 0; 0; 0; 0; 0; 1
+161D/106/16 Đường Lạc Long Quân, Phường 3, Quận 11, Hồ Chí Minh - ; Nhà nguyên căn; 18 m; None; Tin VIP 3; 0; 0; 1; 0; 0; 0; 0
+Đường Âu Cơ, Phường 10, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+519/48 Đường Âu Cơ, Phường Phú Trung, Quận Tân Phú, Hồ Chí Minh - ; Nhà nguyên căn; 34 m; None; Tin VIP 1; 0; 0; 0; 0; 0; 0; 0
+6 Đường Phan Huy Thực., Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 1; 0; 1; 1; 0; 0; 1
+Đường Bà Hom, Phường 13, Quận 6, Hồ Chí Minh - ; Phòng trọ; 27 m; None; Tin VIP 3; 1; 0; 1; 0; 0; 1; 0
+Phố Lê Trọng Tấn, Phường Sơn Kỳ, Quận Tân Phú, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+210 Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 1; 0; 0; 0; 0; 1; 1
+66/24 Phổ Quang, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+18/5 Đường Nguyễn Hới, Phường An Lạc, Quận Bình Tân, Hồ Chí Minh - ; Phòng trọ; 17 m; None; Tin VIP 3; 1; 1; 1; 1; 0; 0; 1
+55 Đường Nguyễn Thị Thập, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+13 Đường số 2, Phường 6, Quận 8, Hồ Chí Minh - ; Phòng trọ; 15 m; None; Tin VIP 3; 0; 1; 1; 1; 0; 0; 1
+21/48 Phố Vạn Kiếp, Phường 3, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 8 m; None; Tin VIP 3; 1; 0; 0; 0; 0; 0; 1
+Nhà 119 Hẻm tổ dân phố 13 , Đường Phú Mỹ, Phường 22, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 8 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Ảnh Thủ, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Đường Tô Ngọc Vân, Phường Thạnh Xuân, Quận 12, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Đường Huỳnh Thị Hai, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Số nhà 50 ngõ 46 Đường Triều Khúc, Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội - ; Phòng trọ; 35 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+1 Lê Văn Lương, Xã Phước Kiển, Huyện Nhà Bè, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 1; 1; 0; 0; 0; 0; 0
+163/8 Đường Thành Thái, Phường 14, Quận 10, Hồ Chí Minh - ; Phòng trọ; 70 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+1340/12/20 Đường Lê Đức Thọ, Phường 13, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 1; 0; 1; 1; 0; 1; 1
+Đường Bạch Đằng, Phường 3, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 3; 1; 1; 1; 1; 0; 0; 1
+Đường Lai Xá, Thị trấn Trạm Trôi, Huyện Hoài Đức, Hà Nội - ; Phòng trọ; 35 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Đường Phạm Văn Bạch, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 3; 1; 0; 1; 0; 0; 1; 1
+55 Đường Tây Lân, Phường Bình Trị Đông A, Quận Bình Tân, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 3; 1; 0; 0; 1; 0; 1; 1
+118 Đường Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 1; 0; 1; 0; 0; 1; 1
+180 Đường Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 1; 0; 1; 0; 0; 1; 0
+26/4 Đường Trần Quý Cáp, Phường 11, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Hẻm 666 Đường Trường Chinh, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 1; 1; 1; 1; 0; 0; 1
+Điện Biên Phủ, Phường 15, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 1; 0; 1; 0; 0; 1; 1
+41 Đường Đặng Thuỳ Trâm, Phường 13, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 12 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+136/9 Tô Hiệu, Phường Hiệp Tân, Quận Tân Phú, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin VIP 3; 1; 0; 1; 0; 0; 0; 1
+230 Đường Phạm Hữu Lầu, Phường Phú Mỹ, Quận 7, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 3; 1; 1; 1; 1; 0; 0; 1
+98/11 Đường Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 0; 1; 1; 1; 0; 1; 1
+D6, Phường Phước Long B, Quận 9, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin VIP 3; 1; 1; 1; 0; 0; 0; 1
+129/12c Đường Lê Đình Cẩn, Phường Tân Tạo, Quận Bình Tân, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Hẻm 350 Huỳnh tấn phát q7 Đường Huỳnh Tấn Phát, Phường Bình Thuận, Quận 7, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Trần Kế Xương, Phường 7, Quận Phú Nhuận, Hồ Chí Minh - ; Phòng trọ; 40 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+205/42 Đường Tân Hòa Đông, Phường 14, Quận 6, Hồ Chí Minh - ; Phòng trọ; 26 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+15 Đường Trương Quốc Dung, Phường 8, Quận Phú Nhuận, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+340C Đường Hoàng Văn Thụ, Phường 4, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 3; 1; 1; 1; 0; 0; 0; 1
+Phố Lý Thường Kiệt, Phường 15, Quận 11, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin VIP 3; 1; 1; 1; 0; 0; 0; 1
+4 Đường Ký Con, Phường 7, Quận Phú Nhuận, Hồ Chí Minh - ; Phòng trọ; 18 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Phố trọ 2, 86/22T Đường Đình Phong Phú, Phường Tăng Nhơn Phú B, Quận 9, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+573 Đường Sư Vạn Hạnh, Phường 12, Quận 10, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Quận 1, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+84 Đường Nguyễn Tất Thành, Phường 12, Quận 4, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Đặng Thuỳ Trâm, Phường 13, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 26 m; None; Tin VIP 3; 1; 1; 1; 1; 0; 0; 1
+111/4/1 Phạm Văn Chiêu, Phường 14, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 16 m; None; Tin VIP 3; 1; 0; 0; 0; 0; 1; 1
+75 Võ Duy Ninh, Phường 22, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 3; 1; 1; 1; 1; 0; 0; 1
+131 Tôn Đản, Phường 14, Quận 4, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+985/36/2A Đường Âu Cơ, Phường Tân Sơn Nhì, Quận Tân Phú, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+566/72 Nguyễn Thái Sơn, Phường 5, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Tôn Thất Hiệp, Phường 13, Quận 11, Hồ Chí Minh - ; Phòng trọ; 28 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+69/55/19 Đường Nguyễn Cửu Đàm, Phường Tân Sơn Nhì, Quận Tân Phú, Hồ Chí Minh - ; Phòng trọ; 37 m; None; Tin VIP 3; 1; 1; 1; 0; 0; 1; 1
+Đường Phạm Cự Lượng, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 1; 0; 0; 0; 0; 0; 0; 0
+227 Đường Hoàng Hoa Thám, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 1; 1; 0; 1; 1; 0; 1; 0
+101 Đường số 8, Phường Linh Đông, Quận Thủ Đức, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 1; 0; 0; 0; 0; 0; 0; 0
+125/16/11 Đường Bùi Đình Túy, Phường 24, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 1; 1; 0; 0; 1; 0; 0; 1
+187/9 Đường Tô Ngọc Vân, Phường Linh Đông, Thủ Đức, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 1; 0; 0; 0; 0; 0; 0; 0
+Đường Gốc Đề, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội - ; Phòng trọ; 30 m; None; Tin VIP 3; 1; 1; 1; 0; 0; 1; 1
+3/26 Đường Liên khu 10-11, Phường Bình Trị Đông, Quận Bình Tân, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 1; 0; 0; 0; 0; 0; 0; 0
+600/.... Đường Quang Trung, Phường 11, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 18 m; None; Tin VIP 1; 1; 0; 0; 0; 0; 1; 1
+51/9/11 Đường Thống Nhất, Phường 10, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin VIP 1; 0; 0; 0; 0; 0; 0; 0
+Trần Văn Hoàng, Phường 9, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 1; 1; 0; 1; 0; 0; 1; 1
+343/3 Tô Hiến Thành, Phường 11, Quận 10, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 1; 1; 1; 1; 0; 0; 1; 1
+50 Đường Phạm Cự Lượng, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP nổi bật; 0; 0; 0; 0; 0; 0; 0
+346 Đường Phạm Văn Bạch, Phường 15, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP nổi bật; 0; 0; 0; 0; 0; 0; 0
+120 Đường số 6, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh - ; Phòng trọ; 27 m; None; Tin VIP 1; 0; 0; 0; 0; 0; 0; 0
+Phú Riềng Đỏ, Phường Tân Bình, Thị Xã Đồng Xoài, Bình Phước - ; Phòng trọ; 40 m; None; Tin VIP 3; 0; 0; 1; 0; 0; 0; 0
+43/3 Đường Thành Thái, Phường 14, Quận 10, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP nổi bật; 0; 0; 0; 0; 0; 0; 0
+64 Đường số 8, Xã Bình Hưng, Huyện Bình Chánh, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 3; 1; 0; 1; 1; 0; 0; 1
+Nguyễn Lương Bằng, Phường Phú Mỹ, Quận 7, Hồ Chí Minh - ; Phòng trọ; 10 m; None; Tin VIP nổi bật; 0; 0; 0; 0; 0; 0; 0
+Hồ Văn Huê, Phường 9, Quận Phú Nhuận, Hồ Chí Minh - ; Phòng trọ; 22 m; None; Tin VIP nổi bật; 1; 1; 1; 0; 0; 0; 1
+24 Đường Sơn Kỳ, Phường Sơn Kỳ, Quận Tân Phú, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP nổi bật; 0; 0; 0; 0; 0; 0; 0
+796 Đường Lê Đức Thọ, Phường 15, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP nổi bật; 1; 0; 0; 1; 0; 0; 0
+64 Đường Trương Văn Bang, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh - ; Phòng trọ; 18 m; None; Tin VIP nổi bật; 0; 0; 0; 0; 0; 0; 0
+Văn Thân, Phường 8, Quận 6, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+70 Đường số 27, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP nổi bật; 1; 0; 1; 1; 0; 0; 1
+Chu Văn An, Phường Tân Thành, Quận Tân Phú, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 0; 0
+15 Đường Nguyễn Lương Bằng, Phường Phú Mỹ, Quận 7, Hồ Chí Minh - ; Phòng trọ; 12 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+630/17/7 Đường Quốc Lộ 13, Phường Hiệp Bình Phước, Quận Thủ Đức, Hồ Chí Minh - ; Phòng trọ; 24 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+6/4a D210 Đường Man Thiện, Phường Tăng Nhơn Phú A, Quận 9, Hồ Chí Minh - ; Phòng trọ; 16 m; None; Tin miễn phí; 1; 0; 1; 1; 0; 0; 1
+1072/14 Kha Vạn Cân, Phường Linh Chiểu, Thủ Đức, Hồ Chí Minh - ; Phòng trọ; 16 m; None; Tin miễn phí; 1; 0; 1; 0; 0; 1; 1
+82 Đường số 17, Phường Linh Chiểu, Thủ Đức, Hồ Chí Minh - ; Phòng trọ; 14 m; None; Tin miễn phí; 1; 0; 1; 1; 0; 0; 1
+66 9, Phường Bình Thọ, Thủ Đức, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin miễn phí; 1; 0; 1; 1; 0; 1; 1
+142 Nguyễn Thị Thập, Phường Bình Thuận, Quận 7, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+23 Đường Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+4 Đường số 1, Phường Tân Phú, Quận 7, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+Đường Đặng Thuỳ Trâm, Phường 13, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 1; 1; 1; 0; 0; 1; 1
+33 Đường số 9, Phường 13, Quận 6, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+59/160 Đường số 102, Phường Tăng Nhơn Phú A, Quận 9, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+268 Đặng Thuỳ Trâm, Phường 13, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+35, Phường Cát Lái, Quận 2, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Lê Văn Việt, Phường Hiệp Phú, Quận 9, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+270/4 Phan Đình Phùng Đường Phan Đình Phùng, Phường 1, Quận Phú Nhuận, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 0; 1; 1; 0; 0; 0; 0
+72 Đường Dương Đức Hiền, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+194-196 Đường Gia Phú, Phường 1, Quận 6, Hồ Chí Minh - ; Phòng trọ; 19 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+127 Đường Gò Xoài, Phường Bình Hưng Hòa A, Quận Bình Tân, Hồ Chí Minh - ; Phòng trọ; 18 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+43D/15 Đường Hồ Văn Huê, Phường 9, Quận Phú Nhuận, Hồ Chí Minh - ; Phòng trọ; 18 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Lương Bằng, Phường Phú Mỹ, Quận 7, Hồ Chí Minh - ; Phòng trọ; 18 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+1093 Đường Hoàng Sa, Phường 11, Quận 3, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+373 Đường Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Đường số 22, Phường Phước Long B, Quận 9, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+18/94 Đường Alexandre de Rhodes, Phường Linh Trung, Thủ Đức, Hồ Chí Minh - ; Phòng trọ; 15 m; None; Tin VIP 3; 1; 0; 0; 0; 0; 1; 1
+793 Phố Trần Xuân Soạn, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+107 Phố Nguyễn Xí, Phường 25, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 18 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+27 Hoa Sứ, Phường 2, Quận Phú Nhuận, Hồ Chí Minh - ; Phòng trọ; 75 m; None; Tin VIP 3; 1; 0; 1; 0; 0; 0; 1
+Đường Phan Văn Trị, Phường 7, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+27 Hoa Sứ, Phường 2, Quận Phú Nhuận, Hồ Chí Minh - ; Phòng trọ; 40 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+549/89/13 Đường Xô Viết Nghệ Tĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 10 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Lê Quang Định, Phường 1, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 27 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Xô Viết Nghệ Tĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin thường; 1; 0; 1; 0; 0; 1; 1
+80/12/200B Đường Dương Quảng Hàm, Phường 5, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 80 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Tạ Quang Bửu, Phường 3, Quận 8, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 3; 0; 0; 1; 0; 0; 1; 0
+512 Nguyễn Xiển, Phường Long Thạnh Mỹ, Quận 9, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+482 Lê Quang Định, Phường 11, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+152 Đường Lý Chính Thắng, Phường 7, Quận 3, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+840 Đường Hương lộ 2, Phường Bình Trị Đông A, Quận Bình Tân, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+23 Đường Nguyễn Văn Mai, Phường 7, Quận 3, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+22H Đường Phan Văn Sửu, Phường 15, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 35 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+Nguyễn Khuyến, Phường Văn Quán, Quận Hà Đông, Hà Nội - ; Phòng trọ; 25 m; None; Tin VIP 3; 1; 1; 1; 1; 0; 1; 1
+Nguyễn Biểu, Phường 1, Quận 5, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 1; 0; 1; 0; 0; 1; 1
+Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội - ; Phòng trọ; 25 m; None; Tin miễn phí; 0; 1; 1; 1; 0; 0; 1
+Hẻm 520 Quốc Lộ 13, Phường Hiệp Bình Phước, Thủ Đức, Hồ Chí Minh - ; Phòng trọ; 9 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+686/72/41 Đường Cách Mạng Tháng Tám, Phường 11, Quận 3, Hồ Chí Minh - ; Phòng trọ; 12 m; None; Tin thường; 1; 1; 0; 0; 0; 0; 1
+395/24 Đường Vĩnh Viễn, Phường 5, Quận 10, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+34 Đường Tô Hiến Thành, Phường 12, Quận 10, Hồ Chí Minh - ; Phòng trọ; 16 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+46/13 Vườn Chuối, Phường 4, Quận 3, Hồ Chí Minh - ; Phòng trọ; 15 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+260/ Nguyễn Thiện Thuật, Phường 3, Quận 3, Hồ Chí Minh - ; Phòng trọ; 15 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+416/34 Nguyễn Đình Chiểu Nguyễn Đình Chiểu, Phường 4, Quận 3, Hồ Chí Minh - ; Phòng trọ; 12 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+166/18 Hồ Bá Kiện, Phường 15, Quận 10, Hồ Chí Minh - ; Phòng trọ; 16 m; None; Tin thường; 1; 0; 1; 0; 0; 0; 1
+58 Đường Đồng Nai, Phường 15, Quận 10, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 1; 1; 1; 0; 0; 1; 1
+Lý Thường Kiệt, Phường 14, Quận 10, Hồ Chí Minh - ; Phòng trọ; 27 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+154 Lý Chính Thắng, Phường 7, Quận 3, Hồ Chí Minh - ; Phòng trọ; 16 m; None; Tin thường; 1; 1; 0; 0; 0; 0; 1
+159/82 Đường Trần Văn Đang, Phường 11, Quận 3, Hồ Chí Minh - ; Phòng trọ; 15 m; None; Tin VIP 2; 0; 0; 0; 0; 0; 0; 0
+291/3 Đường Trường Chinh, Phường 14, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 12 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Hẻm 138 Đường Tô Ngọc Vân, Phường Thạnh Xuân, Quận 12, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Văn Cừ, Phường 1, Quận 5, Hồ Chí Minh - ; Phòng trọ; 15 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+16 ngõ 143 Đường Chiến Thắng, Xã Tân Triều, Huyện Thanh Trì, Hà Nội - ; Phòng trọ; 18 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Văn Đậu, Phường 6, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 3; 1; 0; 0; 0; 0; 1; 0
+13/12 Quách Văn Tuấn, Phường 12, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 12 m; None; Tin VIP 2; 1; 0; 1; 0; 0; 0; 1
+Đường Quảng Hàm, Phường 5, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 20 m; None; Tin VIP 3; 1; 1; 1; 0; 0; 0; 1
+257 Đường Thành Công, Phường Tân Thành, Quận Tân Phú, Hồ Chí Minh - ; Phòng trọ; 10 m; None; Tin VIP 2; 0; 0; 0; 0; 0; 0; 0
+69/38/11 Đường Nguyễn Gia Trí, Phường 25, Quận Bình Thạnh, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 2; 1; 1; 1; 0; 0; 0; 1
+Đường Cách Mạng Tháng Tám, Phường 7, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 15 m; None; Tin VIP 2; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 2; 1; 1; 1; 0; 0; 0; 1
+206/20 Đường số 20, Phường 5, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 18 m; None; Tin VIP 2; 1; 0; 1; 1; 0; 0; 1
+352 Đường Phan Huy Ích, Phường 12, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 18 m; None; Tin VIP 2; 0; 0; 0; 0; 0; 0; 0
+Đường Cộng Hòa, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 2; 0; 0; 0; 0; 0; 0; 0
+60 Đường Huỳnh Khương An, Phường 5, Quận Gò Vấp, Hồ Chí Minh - ; Phòng trọ; 30 m; None; Tin VIP 2; 1; 0; 1; 1; 0; 0; 1
+Bến Vân Đồn, Phường 6, Quận 4, Hồ Chí Minh - ; Phòng trọ; 40 m; None; Tin VIP 2; 0; 0; 0; 0; 0; 0; 0
+25D Lạc Long Quân, Phường 5, Quận 11, Hồ Chí Minh - ; Phòng trọ; 25 m; None; Tin VIP 2; 0; 0; 0; 0; 0; 0; 0
+Đoàn Thị Điểm, Phường 1, Quận Phú Nhuận, Hồ Chí Minh - ; Phòng trọ; 22 m; None; Tin VIP 2; 0; 0; 0; 0; 0; 0; 0
+Thống Nhất, Phường 16, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ mini; 50 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+14 Bế Văn Đàn, Phường An Bình, Thành phố Dĩ An, Bình Dương - ; Căn hộ chung cư; 56 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Đường Âu Cơ, Phường Tân Thành, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ chung cư; 88 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+315 Nguyễn Thái Bình, Phường 12, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 70 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Lâm Văn Bền, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 0
+Cách Mạng Tháng Tám, Phường 6, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Huỳnh Tấn Phát, Phường Tân Thuận Đông, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Trần Xuân Soạn, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 1; 1; 1; 0; 0; 1
+Nguyễn Thị Minh Khai, Phường 6, Quận 3, Hồ Chí Minh - ; Căn hộ chung cư; 80 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+427 Đường Lê Văn Quới, Phường Bình Trị Đông A, Quận Bình Tân, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+378 Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Trần Xuân Soạn, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 50 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+D4, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Trọng Tuyển, Phường 15, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+400 Nguyễn Văn Khối, Phường 8, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Bà Hom, Phường 13, Quận 6, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+7A, Phường Bình Trị Đông B, Quận Bình Tân, Hồ Chí Minh - ; Căn hộ mini; 50 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+20 Đường Bùi Văn Ba, Phường Bình Thuận, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Đình Chính, Phường 11, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Ngô Bệ, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Hòa Bình, Phường Hiệp Tân, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+366 Đường Chu Văn An, Phường 12, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 26 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+453/57KH Đường Lê Văn Sỹ, Phường 12, Quận 3, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+546 Lê Văn Lương, Phường Tân Phong, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Trần Xuân Soạn, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+139 Đường Nguyễn Văn Thoại, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng - ; Căn hộ mini; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Trịnh Đình Trọng, Phường Phú Trung, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Lê Văn Việt, Phường Hiệp Phú, Quận 9, Hồ Chí Minh - ; Căn hộ mini; 28 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Huỳnh Tấn Phát, Phường Tân Thuận Tây, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+71 Đường Nguyễn Bặc, Phường 3, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 28 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Cao Thị Chính, Phường Phú Thuận, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Nhất Chi Mai, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+10 Đường Đồng Nai, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+26, ngách 120/71 Dương Văn Bé, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Trần Xuân Soạn, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Mai Văn Vĩnh, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Đinh Công Tráng, Phường Tân Định, Quận 1, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+63 Đường Nguyễn Thị Nhỏ, Phường 9, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 22 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+253 Trần Xuân Soạn, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Thị Tần, Phường 3, Quận 8, Hồ Chí Minh - ; Căn hộ mini; 34 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Hồng Đào, Phường 14, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Nam Kỳ Khởi Nghĩa, Phường 8, Quận 3, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Lạc Long Quân, Phường 5, Quận 11, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Lâm Văn Bền, Phường Tân Thuận Tây, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 32 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Tử Nha, Phường 12, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Lê Xuân Oai, Phường Long Trường, Quận 9, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+224/20 Phố Lý Thường Kiệt, Phường 14, Quận 10, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Hòa Hưng, Phường 12, Quận 10, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+49 Đường Hoàng Quốc Việt, Phường Phú Mỹ, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Hoàng Hoa Thám, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Tên Lửa, Phường Bình Trị Đông B, Quận Bình Tân, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Duy, Phường 3, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+957 Trần Hưng Đạo, Phường 1, Quận 5, Hồ Chí Minh - ; Căn hộ mini; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+35 Lý Chính Thắng, Phường 3, Quận 3, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Tất Thành, Phường 18, Quận 4, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Văn Lượng, Phường 17, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường số 53, Phường 14, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Trần Xuân Soạn, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+19 Đường Tân Thuận Tây, Phường Bình Thuận, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Hoàng Việt, Phường 4, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+52 ngõ 435 Xuân Đỉnh, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội - ; Căn hộ mini; 36 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Hoàng Sa, Phường Đa Kao, Quận 1, Hồ Chí Minh - ; Căn hộ mini; 50 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Bình Lợi, Phường 13, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+591 Trần Xuân Soạn, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Tô Hiến Thành, Phường 13, Quận 10, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Hoàng Trọng Mậu, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+48 Đường D4, Phường Phước Long B, Quận 9, Hồ Chí Minh - ; Căn hộ mini; 50 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Hoàng Việt, Phường 4, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Phú Minh, Phường Minh Khai, Quận Bắc Từ Liêm, Hà Nội - ; Căn hộ mini; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+1 Đường số 1, Phường Tân Thuận Đông, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 45 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+713/18 Đường Lê Đức Thọ, Phường 16, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ mini; 26 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Công Hoan, Phường 7, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Phố Lý Thường Kiệt, Phường 14, Quận 10, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Phạm Hùng, Phường 5, Quận 8, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Quốc Lộ 13, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+765/71 Xô Viết Nghệ Tĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 26 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Thành Thái, Phường 14, Quận 10, Hồ Chí Minh - ; Căn hộ mini; 36 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+43 Hồ Văn Huê, Phường 9, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+90 Bà Huyện Thanh Quan, Phường 9, Quận 3, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+236 Điện Biên Phủ, Phường 17, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 55 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+778 Đường Nguyễn Kiệm, Phường 4, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Nhất Chi Mai, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+66 Đường số 69, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Lý Thường Kiệt, Phường 14, Quận 10, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Phạm Hùng, Xã Bình Hưng, Huyện Bình Chánh, Hồ Chí Minh - ; Căn hộ mini; 26 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Phan Văn Trị, Phường 11, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Bùi Đình Túy, Phường 12, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Nơ Trang Long, Phường 13, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Phố Lý Thường Kiệt, Phường 15, Quận 11, Hồ Chí Minh - ; Căn hộ mini; 31 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+120 Đường Ni Sư Huỳnh Liên, Phường 10, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Trường Sa, Phường 13, Quận 3, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Lê Văn Sỹ, Phường 13, Quận 3, Hồ Chí Minh - ; Căn hộ mini; 38 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Tân Hương, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Kiến Hưng, Phường Kiến Hưng, Quận Hà Đông, Hà Nội - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Thanh Bình, Phường Mỗ Lao, Quận Hà Đông, Hà Nội - ; Căn hộ mini; 25 m; None; Tin thường; 1; 1; 1; 1; 0; 1; 1
+Yên Xá, Xã Tân Triều, Huyện Thanh Trì, Hà Nội - ; Căn hộ mini; 25 m; None; Tin thường; 1; 1; 1; 1; 0; 1; 1
+Đường Phan Trọng Tuệ, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội - ; Căn hộ mini; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường số 2, Phường 7, Quận 8, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Tên Lửa, Phường An Lạc A, Quận Bình Tân, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Khuông Việt, Phường 5, Quận 11, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin thường; 1; 0; 0; 1; 0; 0; 1
+Đinh Thị Thi, Phường Hiệp Bình Phước, Thủ Đức, Hồ Chí Minh - ; Căn hộ mini; 18 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Thượng Hiền, Phường 1, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ mini; 28 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+486 Đường Phan Xích Long, Phường 2, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Trần Văn Giàu, Phường Tân Tạo A, Quận Bình Tân, Hồ Chí Minh - ; Căn hộ mini; 28 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+30 Nguyễn Xí, Phường 26, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 70 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+02 Đường Nguyễn Oanh, Phường 7, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Trần Bá Giao, Phường 5, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Tô Hiến Thành, Phường 14, Quận 10, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+141 Đường Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 70 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường D1, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Võ Văn Kiệt, Phường 10, Quận 6, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+250 Phan Huy Ích, Phường 12, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ dịch vụ; 50 m; None; Tin miễn phí; 1; 0; 1; 1; 0; 0; 1
+Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Phường 15, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Phạm Văn Bạch, Phường 15, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+3/2, Phường 12, Quận 10, Hồ Chí Minh - ; Căn hộ dịch vụ; 20 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 0; 1
+Trịnh Đình Thảo, Phường Hòa Thạnh, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ chung cư; 87 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+31 Trịnh Đình Thảo, Phường Hòa Thạnh, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ chung cư; 87 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+2 Đường Trịnh Đình Thảo, Phường Hòa Thạnh, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ chung cư; 57 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+31 Trịnh Đình Thảo, Phường Hòa Thạnh, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ chung cư; 60 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Thị Minh Khai, Phường 6, Quận 3, Hồ Chí Minh - ; Căn hộ chung cư; 85 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 0
+Trần Xuân Soạn, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+268 Đường Nguyễn Công Hoan, Phường 7, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ chung cư; 55 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Trần Xuân Soạn, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 36 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 1; 1
+Trần Xuân Soạn, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin miễn phí; 1; 0; 0; 1; 0; 0; 0
+Nguyễn Văn Giai, Phường Bến Nghé, Quận 1, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Cộng Hòa, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+321 Huỳnh Tấn Phát, Phường Tân Thuận Đông, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin thường; 1; 1; 1; 1; 0; 1; 1
+Đường Văn Cao, Phường Phú Thạnh, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Dương Bá Trạc, Phường 1, Quận 8, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+17 Lê Liễu, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ mini; 60 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 0; 0
+11x Xuân Thủy, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội - ; Căn hộ mini; 45 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+322/22 Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Công Hoan, Phường 7, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Đầu hẻm 9 Đường Phạm Ngọc Hưng, Phường An Hòa, Quận Ninh Kiều, Cần Thơ - ; Căn hộ mini; 25 m; None; Tin miễn phí; 1; 0; 1; 0; 0; 1; 0
+229 Đường Phan Xích Long, Phường 2, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ mini; 27 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+ngách 10 ngõ 433 Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường số 10, Xã Bình Hưng, Huyện Bình Chánh, Hồ Chí Minh - ; Căn hộ mini; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+482 Kim Giang, Phường Thanh Trì, Quận Hoàng Mai, Hà Nội - ; Căn hộ mini; 25 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Võ Thị Sáu, Phường Tân Định, Quận 1, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 0; 1
+Đường Hòa Bình, Phường Phú Trung, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Trần Xuân Soạn, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 1; 0; 0; 1; 0; 0; 1
+Dương Bá Trạc, Phường 1, Quận 8, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 1; 0; 0; 1; 0; 0; 1
+Lâm Văn Bền, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 28 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+73/22 Đường Tân Hóa, Phường 1, Quận 11, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 0; 1
+Trần Xuân Soạn, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Kinh Dương Vương, Phường 11, Quận 6, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+1122 Quang Trung, Phường 8, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin thường; 1; 0; 1; 0; 0; 0; 1
+Nguyễn Sỹ Sách, Phường 15, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ chung cư; 98 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Bặc, Phường 3, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ chung cư; 45 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+Hàng Bún, Phường Nguyễn Trung Trực, Quận Ba Đình, Hà Nội - ; Căn hộ dịch vụ; 50 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 0; 1
+Cống Quỳnh, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh - ; Căn hộ dịch vụ; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Cách Mạng Tháng Tám, Phường 4, Quận 10, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 1; 1
+3/2, Phường 11, Quận 10, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+37 Tây Hồ, Phường Bưởi, Quận Tây Hồ, Hà Nội - ; Căn hộ dịch vụ; 90 m; None; Tin miễn phí; 0; 1; 1; 1; 0; 0; 1
+Phan Văn Trị, Phường 11, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 28 m; None; Tin thường; 0; 1; 1; 0; 0; 0; 0
+Đường số 1, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Lê Đức Thọ, Phường 6, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ mini; 27 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Thành Thái, Phường 14, Quận 10, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Phố Tạ Quang Bửu, Phường 6, Quận 8, Hồ Chí Minh - ; Căn hộ chung cư; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+90 Đường Nguyễn Thượng Hiền, Phường 5, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Phố Lê Trọng Tấn, Phường Bình Hưng Hòa, Quận Bình Tân, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Cộng Hòa, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Đường Tô Hiến Thành, Phường 14, Quận 10, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+195 Đặng Thuỳ Trâm, Phường 13, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường D4, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Huỳnh Tấn Phát, Phường Tân Phú, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+121 Đường Hoàng Mai, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+162 Phan Đăng Lưu, Phường 3, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+1 Đường Tân Thuận Tây, Phường Tân Thuận Tây, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 50 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Đường Tám Danh, Phường 4, Quận 8, Hồ Chí Minh - ; Căn hộ mini; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Thượng Hiền, Phường 1, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ mini; 50 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Thị Thập, Phường Tân Phong, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 22 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+171 Bình Lợi, Phường 13, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+493 Nơ Trang Long, Phường 13, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Cộng Hòa, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+142 Nguyễn Thị Thập, Phường Bình Thuận, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+1 Đường Hoàng Hoa Thám, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ chung cư; 70 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 45 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+15, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 50 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 1; 0
+Hồng Lạc, Phường 11, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+479A Đường Bến Phú Lâm, Phường 9, Quận 6, Hồ Chí Minh - ; Căn hộ chung cư; 52 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Phạm Thế Hiển, Phường 1, Quận 8, Hồ Chí Minh - ; Căn hộ dịch vụ; 45 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 1; 0
+Tạ Quang Bửu, Phường 2, Quận 8, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Điện Biên Phủ, Phường 17, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 50 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Dương Bá Trạc, Phường 1, Quận 8, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Bùi Đình Túy, Phường 24, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 50 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 0; 0
+Trần Điền, Phường Định Công, Quận Hoàng Mai, Hà Nội - ; Căn hộ chung cư; 70 m; None; Tin miễn phí; 1; 0; 1; 1; 0; 0; 1
+Lê Văn Quới, Phường Bình Trị Đông, Quận Bình Tân, Hồ Chí Minh - ; Căn hộ dịch vụ; 50 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 1; 1
+Nguyễn Duy Trinh, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội - ; Căn hộ chung cư; 72 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 0
+490 Trần Xuân Soạn, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+471 Nơ Trang Long, Phường 13, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 0; 1
+Đường Đống Đa, Phường 2, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 0; 1; 0; 0; 0; 0
+Đường số 17A, Phường Bình Trị Đông B, Quận Bình Tân, Hồ Chí Minh - ; Căn hộ mini; 20 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Đường Phú Thuận, Phường Bình Thuận, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 0; 1; 1; 1; 0; 0; 1
+Đường số 25, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin thường; 1; 0; 1; 0; 0; 0; 1
+Hậu Giang, Phường 11, Quận 6, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 1; 1
+Phường Hòa Phú, Thành phố Thủ Dầu Một, Bình Dương - ; Căn hộ mini; 30 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 1; 1
+14, Phường Tân Phong, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Dương Bá Trạc, Phường 1, Quận 8, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Đường Quang Trung, Phường 10, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+137 Đường Phan Anh, Phường Bình Trị Đông, Quận Bình Tân, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+Hoàng Văn Thụ, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin miễn phí; 1; 0; 1; 1; 0; 0; 1
+40 Đường Thoại Ngọc Hầu, Phường Hòa Thạnh, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ chung cư; 30 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+1 Đường Ba Vân, Phường 14, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+Đường Phú Thuận, Phường Phú Thuận, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+14 Đường Hồ Văn Huê, Phường 9, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+204 Trần Duy Hưng, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội - ; Căn hộ mini; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường số 27, Phường Tân Phong, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đoàn Khuê, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng - ; Căn hộ dịch vụ; 45 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Hồ Chí Minh - ; Căn hộ chung cư; 64 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+3, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Tôn Thất Tùng, Phường Bến Thành, Quận 1, Hồ Chí Minh - ; Căn hộ chung cư; 90 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Thị Thập, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+126 Phan Đăng Lưu, Phường 3, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+79 Nguyễn Thượng Hiền, Phường 5, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+3/2, Phường 7, Quận 10, Hồ Chí Minh - ; Căn hộ dịch vụ; 18 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Trần Kế Xương, Phường 7, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ chung cư; 61 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+90 Đường số 4, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 28 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Cộng Hòa, Phường 4, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Âu Cơ, Phường 10, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 1; 0; 0; 0; 0; 0; 1
+Hoàng Văn Thụ, Phường 8, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ mini; 28 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Lê Đại Hành, Phường 11, Quận 11, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+1 Đường số 77, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Ung Văn Khiêm, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+546 Đường Xa Lộ Hà Nội, Phường Phước Long A, Quận 9, Hồ Chí Minh - ; Căn hộ mini; 22 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Đất Thánh, Phường 6, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ chung cư; 35 m; None; Tin thường; 1; 1; 1; 1; 0; 1; 1
+Nguyễn Hồng Đào, Phường 14, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 45 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 1; 1
+Đường số 6, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Phố Phan Đăng Lưu, Phường 3, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ dịch vụ; 20 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 0; 1
+141 Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 70 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Trần Quốc Hoàn, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng - ; Căn hộ dịch vụ; 60 m; None; Tin miễn phí; 1; 0; 1; 1; 0; 0; 1
+Đường số 3/2, Phường 14, Quận 10, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+2A Đường Nguyễn Sỹ Sách, Phường 15, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ chung cư; 97 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+75 Phố số 59, Phường 14, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Nguyễn Thị Thập, Phường Bình Thuận, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Hoàng Hoa Thám, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ chung cư; 60 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Dương Bá Trạc, Phường 1, Quận 8, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+77 Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, Hồ Chí Minh - ; Căn hộ chung cư; 61 m; None; Tin thường; 1; 0; 1; 1; 0; 0; 1
+85 Phố số 59, Phường 14, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ chung cư; 80 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+47 Hoàng Diệu, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng - ; Căn hộ dịch vụ; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Trần Quốc Hoàn, Phường 4, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Đường Trường Sa, Phường 12, Quận 3, Hồ Chí Minh - ; Căn hộ chung cư; 97 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Kỳ Đồng, Phường 9, Quận 3, Hồ Chí Minh - ; Căn hộ chung cư; 55 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Vũ Huy Tấn, Phường 3, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ chung cư; 60 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Hậu Giang, Phường 11, Quận 6, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Lý Chiêu Hoàng, Phường 10, Quận 6, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Cách Mạng Tháng Tám, Phường 5, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 0; 1
+VNAHOMES Võng Thị, Phường Bưởi, Quận Tây Hồ, Hà Nội - ; Căn hộ dịch vụ; 75 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường số 79, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 50 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường số 29/3, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng - ; Căn hộ dịch vụ; 80 m; None; Tin miễn phí; 1; 0; 1; 0; 0; 0; 1
+Nguyễn Thái Sơn, Phường 5, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ dịch vụ; 20 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+Đường Bát Nàn, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Lê Văn Lương, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 1; 1; 1; 1; 0; 1; 1
+20, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Sao Biển, Phường Vĩnh Hải, Thành Phố Nha Trang, Khánh Hòa - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Pasteur, Phường 6, Quận 3, Hồ Chí Minh - ; Căn hộ chung cư; 57 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Hoàng Hoa Thám, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ chung cư; 75 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+111 Triều Khúc, Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội - ; Căn hộ mini; 28 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+73 Đường Hoàng Ngân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội - ; Căn hộ mini; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Xã Bình Hưng, Huyện Bình Chánh, Hồ Chí Minh - ; Căn hộ dịch vụ; 50 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Hòa Hảo, Quận 10, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Hương lộ 2, Phường Bình Trị Đông A, Quận Bình Tân, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin thường; 1; 1; 1; 1; 0; 1; 1
+Đường số 47, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 30 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 0; 1
+Nhất Chi Mai, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Đường Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh - ; Căn hộ mini; 20 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+520 Nguyễn Kiệm, Phường 4, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ mini; 50 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường số 79, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+350 Đường Bưởi, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội - ; Căn hộ mini; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+25, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ mini; 35 m; None; Tin thường; 1; 1; 1; 1; 0; 1; 1
+Lý Thường Kiệt, Phường 14, Quận 10, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Lê Đại Hành, Phường 15, Quận 10, Hồ Chí Minh - ; Căn hộ mini; 25 m; None; Tin thường; 1; 1; 1; 1; 0; 1; 1
+Phó Đức Chính, Phường 1, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 20 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+8 Nguyễn Trung Trực, Phường 5, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 27 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Văn Linh, Phường Bình Thuận, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+17, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Phường 3, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+Đường Hoàng Văn Thụ, Phường 9, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ dịch vụ; 45 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Hồng Bàng, Phường 9, Quận 6, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+23, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+89 Đường số 154, Phường Tân Phú, Quận 9, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Cống Lở, Phường 15, Quận Tân Bình, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin miễn phí; 1; 0; 1; 0; 0; 0; 1
+194/43 Đường Bạch Đằng, Phường 24, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 24 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 1; 0
+Phạm Văn Hai, Phường 5, Quận Tân Bình, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+86 Đường Nguyễn Thông, Phường 9, Quận 3, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Bình Lợi, Phường 13, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 45 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+108 Đường Cộng Hòa, Phường 4, Quận Tân Bình, Hồ Chí Minh - ; Ở ghép; 60 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Hưng Phước, Phường Tân Phong, Quận 7, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Phan Văn Hân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+368 Đường Phan Văn Trị, Phường 5, Quận Gò Vấp, Hồ Chí Minh - ; Ở ghép; 80 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+145 Đường số 1, Phường 4, Quận Gò Vấp, Hồ Chí Minh - ; Ở ghép; 64 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Lê Văn Sỹ, Phường 13, Quận 3, Hồ Chí Minh - ; Ở ghép; 64 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Quốc Lộ 13, Phường Hiệp Bình Phước, Thủ Đức, Hồ Chí Minh - ; Ở ghép; 50 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+1180 Đường Quang Trung, Phường 8, Quận Gò Vấp, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Văn Yến, Phường Tân Thới Hòa, Quận Tân Phú, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Minh Mạng, Phường Hòa Quý, Quận Ngũ Hành Sơn, Đà Nẵng - ; Ở ghép; 100 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Block A Chung cư Topaz Home 2 154, Phường Tân Phú, Quận 9, Hồ Chí Minh - ; Ở ghép; 65 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Thái Sơn, Phường 4, Quận Gò Vấp, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Làng Tăng Phú, Phường Tăng Nhơn Phú A, Quận 9, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+123 Đường Trần Trọng Cung, Phường Tân Thuận Đông, Quận 7, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Số 3 Phố Khâm Thiên, Phường Khâm Thiên, Quận Đống Đa, Hà Nội - ; Ở ghép; 45 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Hoàng Sa, Phường Tân Định, Quận 1, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+72/1 Đường Bạch Đằng, Phường 24, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+2 Hoàng Diệu, Phường 10, Quận Phú Nhuận, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+34 Nguyễn Hoàng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội - ; Ở ghép; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường số 46, Phường Thảo Điền, Quận 2, Hồ Chí Minh - ; Ở ghép; 22 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+171 Đường Cô Bắc, Phường Cô Giang, Quận 1, Hồ Chí Minh - ; Ở ghép; 12 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+22/33B Đường số 1, Phường Hiệp Bình Phước, Thủ Đức, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+7 Đường Nguyễn Đức Thuận, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Phố Trịnh Văn Bô, Phường Phương Canh, Quận Nam Từ Liêm, Hà Nội - ; Ở ghép; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường số 9, Phường Linh Tây, Thủ Đức, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Bến Vân Đồn, Phường 1, Quận 4, Hồ Chí Minh - ; Ở ghép; 60 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+59 Đường số 51, Phường 14, Quận Gò Vấp, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+187A Lê Văn Lương, Xã Phước Kiển, Huyện Nhà Bè, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+45 Đường Hoàng Diệu 2, Phường Linh Chiểu, Thủ Đức, Hồ Chí Minh - ; Ở ghép; 22 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+118/83 Đường Bạch Đằng, Phường 24, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 45 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+1017/58/1/18 Trần Thị Liền, Xã Phước Kiển, Huyện Nhà Bè, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Chung cư Hausneo 11, Phường Phú Hữu, Quận 9, Hồ Chí Minh - ; Ở ghép; 73 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Hẻm 645 Đường Trần Xuân Soạn, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Ở ghép; 13 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+22/33B Đường số 1, Phường Hiệp Bình Phước, Thủ Đức, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+108 Lò Lu, Phường Trường Thạnh, Quận 9, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường số 3/2, Phường 11, Quận 10, Hồ Chí Minh - ; Ở ghép; 50 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Lê Đại Hành, Phường 11, Quận 11, Hồ Chí Minh - ; Ở ghép; 45 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+12, Phường Hiệp Bình Phước, Thủ Đức, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Âu Cơ, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng - ; Ở ghép; 70 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+691 Đường Lê Văn Việt, Phường Tân Phú, Quận 9, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+An Phú Đông 12, Phường An Phú Đông, Quận 12, Hồ Chí Minh - ; Ở ghép; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+347/12a Chu Văn An, Phường 12, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 24 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Phường Mỗ Lao, Quận Hà Đông, Hà Nội - ; Ở ghép; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Chung cư SAMSORA 1, Phường Bình Thắng, Thành phố Dĩ An, Bình Dương - ; Ở ghép; 56 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+63 Vân Hồ III, Phường Lê Đại Hành, Quận Hai Bà Trưng, Hà Nội - ; Ở ghép; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+528 Huỳnh Tấn Phát, Phường Bình Thuận, Quận 7, Hồ Chí Minh - ; Ở ghép; 16 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Lý Thường Kiệt, Phường Hàng Bài, Quận Hoàn Kiếm, Hà Nội - ; Ở ghép; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+53 Giải Phóng, Phường 4, Quận Tân Bình, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Mễ Trì Hạ, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội - ; Ở ghép; 120 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Cách Mạng Tháng Tám, Phường 10, Quận 3, Hồ Chí Minh - ; Ở ghép; 32 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+7 Minh Khai, Phường Mai Động, Quận Hoàng Mai, Hà Nội - ; Ở ghép; 36 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+463/1E Đường Cách Mạng Tháng Tám, Phường 13, Quận 10, Hồ Chí Minh - ; Ở ghép; 60 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+530/24 Thụy Khuê, Phường Bưởi, Quận Tây Hồ, Hà Nội - ; Ở ghép; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+S901 Đường Nguyễn Xiển, Phường Long Bình, Quận 9, Hồ Chí Minh - ; Ở ghép; 59 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Khuyến, Phường 12, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+105/39 Phố số 59, Phường 14, Quận Gò Vấp, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đỗ Xuân Hợp, Phường Phước Long B, Quận 9, Hồ Chí Minh - ; Ở ghép; 100 m; None; Tin thường; 1; 0; 0; 0; 0; 0; 1
+Chung cư k300 Đường Quách Văn Tuấn, Phường 12, Quận Tân Bình, Hồ Chí Minh - ; Ở ghép; 60 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+194/1 Trần Bá Giao, Phường 5, Quận Gò Vấp, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 1; 0
+7B/105/12 Thành Thái, Phường 14, Quận 10, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Cô Bắc, Phường Cô Giang, Quận 1, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Hồ Đắc Di, Phường Tây Thạnh, Quận Tân Phú, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Bình Thới, Phường 11, Quận 11, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Lãnh Binh Thăng, Phường 11, Quận 11, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Vĩnh Khánh, Phường 9, Quận 4, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+1/25 Đường Cù Chính Lan, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+168/96/5 Đường Bình Trị Đông, Phường Bình Trị Đông, Quận Bình Tân, Hồ Chí Minh - ; Ở ghép; 16 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Điện Biên Phủ, Phường 15, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+33 Đường Lê Thạch, Phường 13, Quận 4, Hồ Chí Minh - ; Ở ghép; 60 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+606/34/18 Quốc Lộ 13, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+449/6/19A Đường Lê Quang Định, Phường 5, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 50 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+40A Đường Lã Xuân Oai, Phường Tăng Nhơn Phú A, Quận 9, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Cư Xá Đồng Tiến, Phường 14, Quận 10, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Mai Chí Thọ, Phường Bình Khánh, Quận 2, Hồ Chí Minh - ; Ở ghép; 59 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Điện Biên Phủ, Phường 2, Quận 3, Hồ Chí Minh - ; Ở ghép; 100 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+392/20/34 Đường Cao Thắng, Phường 12, Quận 10, Hồ Chí Minh - ; Ở ghép; 15 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Tăng Nhơn Phú, Phường Phước Long B, Quận 9, Hồ Chí Minh - ; Ở ghép; 3 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+711/11a Đường Quốc lộ 1A, Phường Thạnh Xuân, Quận 12, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Phường 13, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Golden Park Số 1 Phạm Văn Bạch Yên Hoà Cầu Giấy Dương Đình Nghệ, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội - ; Ở ghép; 100 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+120/43/10 Đường Trần Hưng Đạo, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+120/43/10 Đường Trần Hưng Đạo, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh - ; Ở ghép; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+498 Lê Hồng Phong, Phường 2, Quận 10, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+61/42 Đường số 19, Phường 8, Quận Gò Vấp, Hồ Chí Minh - ; Ở ghép; 12 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+242 Đường Lê Cơ, Phường An Lạc, Quận Bình Tân, Hồ Chí Minh - ; Ở ghép; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+143 Đường Hoàng Hoa Thám, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+C21 Đường số 18, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+183f/2 Đường Tôn Thất Thuyết, Phường 4, Quận 4, Hồ Chí Minh - ; Ở ghép; 18 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Tôn Đức Thắng, Phường 1, Thành phố Bạc Liêu, Bạc Liêu - ; Ở ghép; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Thái Bình, Phường 12, Quận Tân Bình, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+384/85/15 Đường Lý Thái Tổ, Phường 10, Quận 10, Hồ Chí Minh - ; Ở ghép; 16 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+307 Đường Bàu Cát, Quận Tân Bình, Hồ Chí Minh - ; Ở ghép; 18 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Công Bình, Phường 10, Thành Phố Mỹ Tho, Tiền Giang - ; Ở ghép; 16 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Vườn Lài, Phường Phú Thọ Hòa, Quận Tân Phú, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Võ Công Tồn, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+3, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Ở ghép; 70 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+405 Đường Trường Chinh, Phường 14, Quận Tân Bình, Hồ Chí Minh - ; Ở ghép; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+289/2 Đường Nguyễn Thị Định, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh - ; Ở ghép; 18 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+69/38 Đường Nguyễn Gia Trí, Phường 25, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường số 10, Phường Linh Trung, Quận Thủ Đức, Hồ Chí Minh - ; Ở ghép; 50 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Dương Vũ Tùng, Phường 2, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 50 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+209/16 Đường Lê Văn Sỹ, Phường 13, Quận 3, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+40 Đường số 2, Phường 4, Quận 4, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Sư Vạn Hạnh, Phường 12, Quận 10, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+120/9a Thích Quảng Đức, Phường 4, Quận Phú Nhuận, Hồ Chí Minh - ; Ở ghép; 12 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+64/10 Đường Hoàng Hữu Nam, Phường Long Thạnh Mỹ, Quận 9, Hồ Chí Minh - ; Ở ghép; 100 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường số 21, Phường Bình Trị Đông B, Quận Bình Tân, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+3 Đường số 5, Phường Linh Tây, Quận Thủ Đức, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Pasteur, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+41f Đường Đặng Thuỳ Trâm, Phường 13, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 32 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Bùi Đình Túy, Phường 12, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Trãi, Phường Bến Thành, Quận 1, Hồ Chí Minh - ; Ở ghép; 39 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+31/19 Đường Huỳnh Thiên Lộc, Phường Hòa Thạnh, Quận Tân Phú, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+113/17 Đường Trần Quang Diệu, Phường 14, Quận 3, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+1122 Đường Quang Trung, Phường 8, Quận Gò Vấp, Hồ Chí Minh - ; Ở ghép; 15 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Điện Biên Phủ, Phường 15, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Trần Bình Trọng, Phường 5, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 28 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Quang Trung, Phường 7, Quận Gò Vấp, Hồ Chí Minh - ; Ở ghép; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+111 Nguyễn Chí Thanh, Phường 9, Quận 5, Hồ Chí Minh - ; Ở ghép; 50 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+111 Đường Nguyễn Chí Thanh, Phường 9, Quận 5, Hồ Chí Minh - ; Ở ghép; 100 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+719/46 Huỳnh Tấn Phát, Phường Phú Thuận, Quận 7, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Quang Trung, Phường 11, Quận Gò Vấp, Hồ Chí Minh - ; Ở ghép; 50 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Ngọc Thụy, Phường Ngọc Thụy, Quận Long Biên, Hà Nội - ; Ở ghép; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+360 Bến Vân Đồn, Phường 1, Quận 4, Hồ Chí Minh - ; Ở ghép; 105 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Lê Văn Lương, Xã Phước Kiển, Huyện Nhà Bè, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+168/21 Đường Bùi Thị Xuân, Phường 3, Quận Tân Bình, Hồ Chí Minh - ; Ở ghép; 45 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Bàu Cát, Phường 14, Quận Tân Bình, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Mỹ Hòa 1, Xã Trung Chánh, Huyện Hóc Môn, Hồ Chí Minh - ; Ở ghép; 100 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+117/17 Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Đình Chiểu, Phường 3, Quận Phú Nhuận, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Xí, Phường 26, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 70 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội - ; Ở ghép; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+90A Đường Thạch Thị Thanh, Phường Tân Định, Quận 1, Hồ Chí Minh - ; Ở ghép; 36 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Trần Văn Đang, Phường 11, Quận 3, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+31 Trần Quốc Hoàn, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội - ; Ở ghép; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+18bis/7 Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Hồ Chí Minh - ; Ở ghép; 24 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+275 Đường Nguyễn Trãi, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội - ; Ở ghép; 94 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Trãi, Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội - ; Ở ghép; 50 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Golden Park Dương Đình Nghệ, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội - ; Ở ghép; 100 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+2023/23 Đông Hưng Thuận 17, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+64/40 Đường Nguyễn Khoái, Phường 2, Quận 4, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Cư Xá Đồng Tiến, Phường 14, Quận 10, Hồ Chí Minh - ; Ở ghép; 15 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh - ; Ở ghép; 24 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Lưu Chí Hiếu, Quận Tân Phú, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+109 Đường Sông Nhuệ, Phường Đức Thắng, Quận Bắc Từ Liêm, Hà Nội - ; Ở ghép; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+72/6 Đường Liên Khu 16-18, Phường Bình Trị Đông, Quận Bình Tân, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+409/88/58 Đường số 13, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh - ; Ở ghép; 90 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường số 5, Phường Bình Hưng Hòa, Quận Bình Tân, Hồ Chí Minh - ; Ở ghép; 72 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+316 Đường Ngô Gia Tự, Phường 4, Quận 10, Hồ Chí Minh - ; Ở ghép; 18 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Hồ Chí Minh - ; Ở ghép; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Dương Quảng Hàm, Phường 6, Quận Gò Vấp, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+256 Pasteur, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh - ; Ở ghép; 12 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+91B, Phường Long Tuyền, Quận Bình Thuỷ, Cần Thơ - ; Ở ghép; 4 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+73/29 Đường Ni Sư Huỳnh Liên, Phường 10, Quận Tân Bình, Hồ Chí Minh - ; Ở ghép; 28 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+183 Đường số 28, Phường 6, Quận Gò Vấp, Hồ Chí Minh - ; Ở ghép; 32 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+234 Đường Lê Đức Thọ, Phường 6, Quận Gò Vấp, Hồ Chí Minh - ; Ở ghép; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Vương Thừa Vũ, Phường Khương Trung, Quận Thanh Xuân, Hà Nội - ; Ở ghép; 45 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+125 Đồng Văn Cống, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh - ; Ở ghép; 80 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+21 Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh - ; Ở ghép; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Thị Thập, Phường Tân Phong, Quận 7, Hồ Chí Minh - ; Ở ghép; 12 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+338/18 an dương vương An Dương Vương, Phường 4, Quận 5, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Hẻm 350 Đường Huỳnh Tấn Phát, Phường Bình Thuận, Quận 7, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+84 Đường Nguyễn Tất Thành, Phường 12, Quận 4, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Phố Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Xã Bình Hưng, Quận 8, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Nhà sách Nguyễn văn cừ, đường Phạm Hùng, quận 8 - ; Ở ghép; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+436 Đường Nguyễn Thị Thập, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Ở ghép; 25 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Thái Bình, Phường 12, Quận Tân Bình, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 1
+Chung cư Phú Thọ Nguyễn Thị Nhỏ, Phường 5, Quận 11, Hồ Chí Minh - ; Ở ghép; 15 m; None; Tin VIP 3; 0; 0; 0; 0; 0; 0; 0
+22.05 B( Chưng Cư Screc ) Đường Trường Sa, Phường 12, Quận 3, Hồ Chí Minh - ; Ở ghép; 20 m; None; Tin VIP 2; 0; 0; 0; 0; 0; 0; 0
+403 Phạm Văn Bạch, Phường 15, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+618 Quang Trung, Phường 11, Quận Gò Vấp, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Nguyễn Thị Nhỏ, Phường 9, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Đường Nam Kỳ Khởi Nghĩa, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Đường Tỉnh Lộ 10, Phường Bình Trị Đông B, Quận Bình Tân, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Tô Hiến Thành, Phường 13, Quận 10, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Kinh Dương Vương, Phường 13, Quận 6, Hồ Chí Minh - ; Căn hộ dịch vụ; 28 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường D7, Phường Phú Mỹ, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Tô Ký, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh - ; Căn hộ dịch vụ; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Hậu Giang, Phường 11, Quận 6, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Ngõ 165 Quan Nhân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội - ; Căn hộ dịch vụ; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Phạm Hùng, Phường 4, Quận 8, Hồ Chí Minh - ; Căn hộ dịch vụ; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Lý Phục Man, Phường Bình Thuận, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+115/132 Lê Văn Sỹ, Phường 13, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 0; 1
+Trần Xuân Soạn, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 0
+Điện Biên Phủ, Phường 24, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 1; 1
+Trần Hưng Đạo, Phường Cầu Kho, Quận 1, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Dương Bá Trạc, Phường 1, Quận 8, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin miễn phí; 1; 1; 1; 0; 0; 0; 0
+Đường Nguyễn Công Hoan, Phường 7, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Nguyễn Công Hoan, Phường 7, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ dịch vụ; 45 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Bà Huyện Thanh Quan, Phường 9, Quận 3, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 45 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Lê Quang Định, Phường 11, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 38 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Văn Cừ, Phường Cầu Kho, Quận 1, Hồ Chí Minh - ; Căn hộ dịch vụ; 45 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Hoàng Văn Thụ, Phường 4, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Dương Bá Trạc, Phường 1, Quận 8, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Trần Xuân Soạn, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Tô Hiến Thành, Phường 13, Quận 10, Hồ Chí Minh - ; Căn hộ dịch vụ; 26 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Trần Xuân Soạn, Phường Tân Hưng, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Hoàng Việt, Phường 4, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Phan Đình Phùng, Phường 2, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Tân Hương, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Nguyễn Tri Phương, Phường 8, Quận 5, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Phan Xích Long, Phường 2, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+402 Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội - ; Căn hộ dịch vụ; 25 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Lý Thái Tổ, Phường 9, Quận 10, Hồ Chí Minh - ; Căn hộ dịch vụ; 28 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Mã Lò, Phường Bình Trị Đông A, Quận Bình Tân, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường số 2, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Đường Sư Vạn Hạnh, Phường 12, Quận 10, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin thường; 1; 0; 0; 0; 0; 0; 1
+39 Nguyễn Trãi, Phường Bến Thành, Quận 1, Hồ Chí Minh - ; Căn hộ dịch vụ; 28 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+Dương Bá Trạc, Phường 1, Quận 8, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đinh Công Tráng, Phường Tân Định, Quận 1, Hồ Chí Minh - ; Căn hộ dịch vụ; 45 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Võ Thành Trang, Phường 11, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 45 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+44 Lâm Văn Bền, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 52 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Hoàng Hoa Thám, Phường 13, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 45 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Tân Hương, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Trường Sơn, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Huỳnh Thiên Lộc, Phường Hòa Thạnh, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin thường; 1; 1; 1; 1; 0; 1; 1
+4 Đường Hậu Giang, Phường 4, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 45 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Lạc Long Quân, Phường 10, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 45 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+12, Phường Tân Phú, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+3 Cửu Long, Phường 2, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+87/26 Lê Văn Duyệt, Phường 3, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+215 Nguyễn Xí, Phường 13, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Nơ Trang Long, Phường 11, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 28 m; None; Tin thường; 0; 1; 1; 0; 0; 0; 0
+Trần Xuân Soạn, Phường Tân Thuận Tây, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+J9 Hương Giang, Phường 15, Quận 10, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+5 Đường số 9, Phường Bình Thuận, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 40 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Hoàng Việt, Phường 4, Quận Tân Bình, Hồ Chí Minh - ; Căn hộ dịch vụ; 25 m; None; Tin miễn phí; 1; 1; 1; 1; 0; 0; 1
+Bắc Hải, Phường 15, Quận 10, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 1; 0; 1; 0; 0; 0; 1
+Nguyễn Công Hoan, Phường 7, Quận Phú Nhuận, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
+D5, Phường 25, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+10 Trường Sa, Phường 15, Quận Bình Thạnh, Hồ Chí Minh - ; Căn hộ dịch vụ; 45 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+369 Đường Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Lý Chiêu Hoàng, Phường 10, Quận 6, Hồ Chí Minh - ; Căn hộ dịch vụ; 75 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+183 Tôn Thất Thuyết, Phường 4, Quận 4, Hồ Chí Minh - ; Căn hộ dịch vụ; 20 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+207 Đường Chợ Lớn, Phường 11, Quận 6, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+179 Đường Lê Đình Thám, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh - ; Căn hộ dịch vụ; 28 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Lâm Văn Bền, Phường Tân Thuận Tây, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường Tân Hòa Đông, Phường Bình Trị Đông, Quận Bình Tân, Hồ Chí Minh - ; Căn hộ dịch vụ; 55 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+An Dương Vương, Phường 14, Quận 6, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 1; 1; 1; 0; 0; 0; 1
+Đường Phú Thuận, Phường Phú Thuận, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 35 m; None; Tin thường; 0; 0; 0; 0; 0; 0; 0
+Đường số 79, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin thường; 1; 1; 1; 1; 0; 0; 1
+Mai Văn Vĩnh, Phường Tân Quy, Quận 7, Hồ Chí Minh - ; Căn hộ dịch vụ; 30 m; None; Tin miễn phí; 0; 0; 0; 0; 0; 0; 0
