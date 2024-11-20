@@ -15,8 +15,8 @@ class PhongTro123Spider(scrapy.Spider):
         ]
     
     def start_requests(self):
-        for j in range(0, 1):
-            for i in range(1, 2):
+        for j in range(0, 7):
+            for i in range(1, 50):
                 yield scrapy.Request(url=f'{self.start_urls[j]}?page={i}', callback=self.parse)
 
     def parse(self, response):

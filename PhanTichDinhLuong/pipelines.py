@@ -11,9 +11,9 @@ import os
 class MongoDBPhanTichDinhLuongPipeline:
     def __init__(self):
         # Connection String
-        # econnect = str(os.environ['Mongo_HOST'])
-        self.client = pymongo.MongoClient('mongodb://127.0.0.1:27017')
-        # self.client = pymongo.MongoClient('mongodb://'+econnect+':27017')
+        econnect = str(os.environ['Mongo_HOST'])
+        # self.client = pymongo.MongoClient('mongodb://127.0.0.1:27017')
+        self.client = pymongo.MongoClient('mongodb://'+econnect+':27017')
         self.db = self.client['dbmycrawler'] #Create Database     
         pass
     
