@@ -72,4 +72,4 @@ class PhongTro123Spider(scrapy.Spider):
                     item['ownerless'] = 1
                 elif feature.strip() == 'Giờ giấc tự do':
                     item['freetime'] = 1
-            yield item
+        yield item
