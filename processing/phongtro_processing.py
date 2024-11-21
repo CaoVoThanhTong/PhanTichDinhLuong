@@ -1,58 +1,65 @@
 import pandas as pd
 import numpy as np
 import os
+from normalization import standardize_address
 
-def main():
+def process_data():
     # Đọc dữ liệu từ file JSON
+    file_path = '../PhanTichDinhLuong/spiders/phongtro.json'
     try:
-        df = pd.read_json('../PhanTichDinhLuong/spiders/phongtro.json', lines=True)
-        print("Các cột hiện có trong DataFrame:", df.columns)
+        df = pd.read_json(file_path, lines=True)
+        print("Dữ liệu đã được tải thành công.")
     except ValueError as e:
-        print(f"Error reading JSON file: {e}")
-        df = pd.DataFrame()
+        print(f"Lỗi khi đọc file JSON: {e}")
+        return
 
-    # Xóa các cột không cần thiết
-    df = df.drop(columns=['description', 'phone_number', 'title'], errors='ignore')
+    # Tách và chuẩn hóa địa chỉ
+    if 'address' in df.columns:
+        df[['Đường', 'Phường', 'Quận/Huyện', 'Thành phố']] = df['address'].str.split(',', n=3, expand=True)
+        df = standardize_address(df)
 
-    # Loại bỏ từ "Địa chỉ: " trong cột 'address'
-    df['address'] = df['address'].str.replace("Địa chỉ: ", "", regex=False)
-
-    # Tách cột 'address' thành bốn cột
-    df[['Đường', 'Phường', 'Quận/Huyện', 'Thành phố']] = df['address'].str.split(',', n=3, expand=True)
-    df = df.drop(columns=['address'], errors='ignore')
-
-    # Xử lý 'public_date' và 'expired_date'
-    df['public_date'] = pd.to_datetime(df['public_date'].str.replace(r"^Thứ \w+, ", "", regex=True), format="%H:%M %d/%m/%Y", errors='coerce')
-    df['expired_date'] = pd.to_datetime(df['expired_date'].str.replace(r"^Thứ \w+, ", "", regex=True), format="%H:%M %d/%m/%Y", errors='coerce')
-    df['duration_days'] = (df['expired_date'] - df['public_date']).dt.days
-
-    # Sắp xếp thứ tự cột
-    columns_order = ['Đường', 'Phường', 'Quận/Huyện', 'Thành phố', 'duration_days'] + [col for col in df.columns if col not in ['Đường', 'Phường', 'Quận/Huyện', 'Thành phố', 'duration_days']]
-    df = df[columns_order]
-
-    # Đảm bảo thư mục lưu file tồn tại
-    output_dir = "output"
-    os.makedirs(output_dir, exist_ok=True)
-
-    # Lưu file CSV
-    df.to_csv(os.path.join(output_dir, "phongtro_processed_with_duration.csv"), index=False)
-    print("Dữ liệu đã xử lý và lưu vào 'output/phongtro_processed_with_duration.csv'.")
-
-    # Kiểm tra sự tồn tại của cột 'ad_type'
-    if 'ad_type' in df.columns:
-        df['ad_type'] = df['ad_type'].str.replace(", nhà trọ", "", regex=False).str.strip()
-        df.to_csv(os.path.join(output_dir, "phongtro_processed_only_phongtro.csv"), index=False)
-        print("File 'output/phongtro_processed_only_phongtro.csv' đã được lưu sau khi xử lý 'ad_type'.")
-    else:
-        print("Cột 'ad_type' không tồn tại. Bỏ qua bước xử lý này.")
+    # Xử lý cột 'public_date' và 'expired_date'
+    if 'public_date' in df.columns and 'expired_date' in df.columns:
+        df['Ngày đăng'] = pd.to_datetime(df['public_date'].str.replace(r"^Thứ \w+, ", "", regex=True), format="%H:%M %d/%m/%Y", errors='coerce')
+        df['Ngày hết hạn'] = pd.to_datetime(df['expired_date'].str.replace(r"^Thứ \w+, ", "", regex=True), format="%H:%M %d/%m/%Y", errors='coerce')
+        df['Thời gian đăng (ngày)'] = (df['Ngày hết hạn'] - df['Ngày đăng']).dt.days
+        df = df.drop(columns=['public_date', 'expired_date'], errors='ignore')
 
     # Xử lý cột 'price'
-    df['price'] = df['price'].apply(convert_price) if 'price' in df.columns else np.nan
-    df_cleaned = df.dropna(subset=['price'])
-    df_cleaned.to_csv(os.path.join(output_dir, "phongtro_price_statistics.csv"), index=False)
-    print("Dữ liệu giá đã chuẩn hóa và lưu vào 'output/phongtro_price_statistics.csv'.")
+    if 'price' in df.columns:
+        df['Giá phòng (triệu/tháng)'] = df['price'].apply(convert_price)
+        df = df.dropna(subset=['Giá phòng (triệu/tháng)'])
+        df = df.drop(columns=['price'], errors='ignore')
+
+    # Loại bỏ các cột không cần thiết
+    df = df.drop(columns=['description', 'phone_number', 'title', 'address', 'link'], errors='ignore')
+
+    # Việt hóa các cột còn lại
+    column_mapping = {
+        'acreage': 'Diện tích (m²)',
+        'hashtag': 'Hashtag',
+        'package': 'Gói tin',
+        'category': 'Loại phòng',
+        'published_hours': 'Thời gian đăng (giờ trước)'
+    }
+    df.rename(columns=column_mapping, inplace=True)
+
+    # Đẩy các cột địa chỉ lên đầu
+    address_columns = ['Đường', 'Phường', 'Quận/Huyện', 'Thành phố']
+    other_columns = [col for col in df.columns if col not in address_columns]
+    df = df[address_columns + other_columns]
+
+    # Lưu dữ liệu đã xử lý
+    output_dir = "output"
+    os.makedirs(output_dir, exist_ok=True)
+    output_path = os.path.join(output_dir, "phongtro_processed.csv")
+    df.to_csv(output_path, index=False)
+    print(f"Dữ liệu đã được xử lý và lưu vào {output_path}.")
 
 def convert_price(value):
+    """
+    Chuẩn hóa giá trị giá phòng
+    """
     if pd.isna(value):
         return np.nan
     elif "triệu/tháng" in value:
@@ -61,8 +68,7 @@ def convert_price(value):
         return float(value.replace(" đồng/tháng", "").replace(".", "")) / 1_000_000
     elif "Thỏa thuận" in value:
         return np.nan
-    else:
-        return np.nan
+    return np.nan
 
 if __name__ == "__main__":
-    main()
+    process_data()
