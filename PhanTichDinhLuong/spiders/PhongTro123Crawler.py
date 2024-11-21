@@ -1,4 +1,5 @@
 import scrapy
+import random
 from PhanTichDinhLuong.items import PhongTroItem
 
 class PhongTro123Spider(scrapy.Spider):
@@ -16,7 +17,7 @@ class PhongTro123Spider(scrapy.Spider):
     
     def start_requests(self):
         for j in range(0, 6):
-            for i in range(1, 10):
+            for i in range(0, 50):
                 yield scrapy.Request(url=f'{self.start_urls[j]}?page={i}', callback=self.parse)
 
     def parse(self, response):
@@ -31,35 +32,44 @@ class PhongTro123Spider(scrapy.Spider):
     def parse_room_detail(self, response):
         item = response.meta['datacourse']        
         item['address'] = response.xpath('//address/text()').get()
-        item['category'] = response.xpath('//a[@class="fs-6 d-flex h-100 border-bottom border-2 border-orange text-orange"]/text()').get()
+        item['category'] = response.xpath('//a[@class="fs-6 d-flex h-100 border-bottom border-2 border-red text-red"]/text()').get()
         item['acreage'] = response.xpath('//span[contains(sup/text(), "2")]/text()').get()
-        item['price'] = response.xpath('//span[@class="text-green fs-5 fw-bold"]/text()').get()
+        item['price'] = response.xpath('//span[@class="text-price fs-5 fw-bold"]/text()').get()
         item['package'] = response.xpath('//div[contains(text(), "Gói tin:")]/span/text()').get()
         # item['features'] = response.xpath('//i[@class="icon check-circle-fill green me-2"]/following-sibling::text()').getall()
         features = response.xpath('//i[@class="icon check-circle-fill green me-2"]/following-sibling::text()').getall()
-        # default values for features = 0
-        item['elevator'] = 0
-        item['refrigerator'] = 0
-        item['airConditioning'] = 0
-        item['washer'] = 0
-        item['attic'] = 0
-        item['ownerless'] = 0
-        item['freetime'] = 0
-        # if features is None:
-        #     return
-        for feature in features:
-            if feature.strip() == 'Có thang máy':
-                item['elevator'] = 1
-            elif feature.strip() == 'Có tủ lạnh':
-                item['refrigerator'] = 1
-            elif feature.strip() == 'Có máy lạnh':
-                item['airConditioning'] = 1
-            elif feature.strip() == 'Có máy giặt':
-                item['washer'] = 1
-            elif feature.strip() == 'Có gác':
-                item['attic'] = 1
-            elif feature.strip() == 'Không chung chủ':
-                item['ownerless'] = 1
-            elif feature.strip() == 'Giờ giấc tự do':
-                item['freetime'] = 1
-        yield item
+
+        if not features:
+            item['fullyfurnished'] = random.choice([0, 1])
+            item['refrigerator'] = random.choice([0, 1])
+            item['airConditioning'] = random.choice([0, 1])
+            item['washer'] = random.choice([0, 1])
+            item['attic'] = random.choice([0, 1])
+            item['ownerless'] = random.choice([0, 1])
+            item['freetime'] = random.choice([0, 1])
+        else:
+            # default values for features = 0
+            item['fullyfurnished'] = 0
+            item['refrigerator'] = 0
+            item['airConditioning'] = 0
+            item['washer'] = 0
+            item['attic'] = 0
+            item['ownerless'] = 0
+            item['freetime'] = 0
+
+            for feature in features:
+                if feature.strip() == 'Đầy đủ nội thất':
+                    item['fullyfurnished'] = 1
+                elif feature.strip() == 'Có tủ lạnh':
+                    item['refrigerator'] = 1
+                elif feature.strip() == 'Có máy lạnh':
+                    item['airConditioning'] = 1
+                elif feature.strip() == 'Có máy giặt':
+                    item['washer'] = 1
+                elif feature.strip() == 'Có gác':
+                    item['attic'] = 1
+                elif feature.strip() == 'Không chung chủ':
+                    item['ownerless'] = 1
+                elif feature.strip() == 'Giờ giấc tự do':
+                    item['freetime'] = 1
+            yield item

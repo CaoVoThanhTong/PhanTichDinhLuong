@@ -19,7 +19,7 @@ class PhongTroItem(scrapy.Item):
     freetime = scrapy.Field()  # Giờ giấc tự do
     refrigerator = scrapy.Field()  # Tủ lạnh
     airConditioning = scrapy.Field()  # Máy lạnh
-    elevator = scrapy.Field()  # Thang máy
+    fullyfurnished = scrapy.Field()  # Thang máy
     washer = scrapy.Field()  # Máy giặt
     attic = scrapy.Field()  # Có gác
     ownerless = scrapy.Field()  # Không chung chủ
